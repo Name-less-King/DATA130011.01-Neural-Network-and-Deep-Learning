@@ -1,0 +1,83 @@
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  2388
+Num :  10000
+Test ACC :  0.2388
+Top 5 ACC :  0.7363
+acc after recovering
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  4088
+Num :  10000
+Test ACC :  0.4088
+Top 5 ACC :  0.8653
+acc after recovering
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  4838
+Num :  10000
+Test ACC :  0.4838
+Top 5 ACC :  0.9094
+acc after recovering
+Correct :  4875
+Num :  10000
+Test ACC :  0.4875
+Top 5 ACC :  0.91
+
+# percent 为 70 50 30

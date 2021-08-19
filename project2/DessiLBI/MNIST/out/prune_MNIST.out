@@ -1,0 +1,26 @@
+*******************************************
+lr  :  0.1
+kappa  :  1
+mu  :  20
+weight_decay  :  0
+momentum  :  0.9
+dampening  :  0
+*******************************************
+prune conv3
+acc before pruning
+Correct :  9900
+Num :  10000
+Test ACC :  0.99
+Top 5 ACC :  0.9997
+acc after pruning
+conv3.weight
+conv3.bias
+Correct :  9821
+Num :  10000
+Test ACC :  0.9821
+Top 5 ACC :  0.999
+acc after recovering
+Correct :  9900
+Num :  10000
+Test ACC :  0.99
+Top 5 ACC :  0.9997

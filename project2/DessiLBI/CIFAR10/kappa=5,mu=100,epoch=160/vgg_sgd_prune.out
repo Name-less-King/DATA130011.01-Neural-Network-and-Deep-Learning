@@ -1,0 +1,111 @@
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  3108
+Num :  10000
+Test ACC :  0.3108
+Top 5 ACC :  0.7135
+acc after recovering
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  5120
+Num :  10000
+Test ACC :  0.512
+Top 5 ACC :  0.8947
+acc after recovering
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  7710
+Num :  10000
+Test ACC :  0.771
+Top 5 ACC :  0.9761
+acc after recovering
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+
+*******************************************
+lr  :  0.1
+kappa  :  5
+mu  :  100
+weight_decay  :  0.0005
+momentum  :  0.9
+dampening  :  0
+*******************************************
+Files already downloaded and verified
+prune Layer #5
+acc before pruning
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+acc after pruning
+features.4.weight
+features.4.bias
+Correct :  8636
+Num :  10000
+Test ACC :  0.8636
+Top 5 ACC :  0.991
+acc after recovering
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9932
+
+# percent按顺序是 70 50 30 20

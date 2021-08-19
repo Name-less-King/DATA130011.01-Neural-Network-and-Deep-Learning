@@ -1,0 +1,8695 @@
+Files already downloaded and verified
+Files already downloaded and verified
+features.0.weight
+features.0.bias
+features.1.weight
+features.1.bias
+features.4.weight
+features.4.bias
+features.5.weight
+features.5.bias
+features.8.weight
+features.8.bias
+features.9.weight
+features.9.bias
+features.11.weight
+features.11.bias
+features.12.weight
+features.12.bias
+features.15.weight
+features.15.bias
+features.16.weight
+features.16.bias
+features.18.weight
+features.18.bias
+features.19.weight
+features.19.bias
+features.22.weight
+features.22.bias
+features.23.weight
+features.23.bias
+features.25.weight
+features.25.bias
+features.26.weight
+features.26.bias
+classifier.0.weight
+classifier.0.bias
+classifier.1.weight
+classifier.1.bias
+classifier.3.weight
+classifier.3.bias
+classifier.4.weight
+classifier.4.bias
+classifier.6.weight
+classifier.6.bias
+*******************************************
+lr  :  0.0003
+kappa  :  5
+mu  :  100
+betas  :  (0.9, 0.999)
+eps  :  1e-08
+weight_decay  :  0.0005
+dampening  :  0
+*******************************************
+num of all step: 62560
+num of step per epoch: 391
+*******************************
+epoch :  1
+iteration :  50
+loss :  0.9772368896007538
+Correct :  1684
+Num :  6400
+Train ACC :  0.263125
+*******************************
+epoch :  1
+iteration :  100
+loss :  0.8359776496887207
+Correct :  2370
+Num :  6400
+Train ACC :  0.3703125
+*******************************
+epoch :  1
+iteration :  150
+loss :  0.7848264467716217
+Correct :  2691
+Num :  6400
+Train ACC :  0.42046875
+*******************************
+epoch :  1
+iteration :  200
+loss :  0.7264988613128662
+Correct :  2917
+Num :  6400
+Train ACC :  0.45578125
+*******************************
+epoch :  1
+iteration :  250
+loss :  0.6812171399593353
+Correct :  3240
+Num :  6400
+Train ACC :  0.50625
+*******************************
+epoch :  1
+iteration :  300
+loss :  0.6630976021289825
+Correct :  3281
+Num :  6400
+Train ACC :  0.51265625
+*******************************
+epoch :  1
+iteration :  350
+loss :  0.6298146724700928
+Correct :  3455
+Num :  6400
+Train ACC :  0.53984375
+Test Model
+Correct :  5719
+Num :  10000
+Test ACC :  0.5719
+Top 5 ACC :  0.9564
+*******************************
+epoch :  2
+iteration :  50
+loss :  0.5709341317415237
+Correct :  3749
+Num :  6400
+Train ACC :  0.58578125
+*******************************
+epoch :  2
+iteration :  100
+loss :  0.5610421866178512
+Correct :  3798
+Num :  6400
+Train ACC :  0.5934375
+*******************************
+epoch :  2
+iteration :  150
+loss :  0.5227827495336532
+Correct :  3972
+Num :  6400
+Train ACC :  0.620625
+*******************************
+epoch :  2
+iteration :  200
+loss :  0.5092009991407395
+Correct :  4074
+Num :  6400
+Train ACC :  0.6365625
+*******************************
+epoch :  2
+iteration :  250
+loss :  0.49333950579166413
+Correct :  4114
+Num :  6400
+Train ACC :  0.6428125
+*******************************
+epoch :  2
+iteration :  300
+loss :  0.47712135791778565
+Correct :  4250
+Num :  6400
+Train ACC :  0.6640625
+*******************************
+epoch :  2
+iteration :  350
+loss :  0.46279985189437867
+Correct :  4315
+Num :  6400
+Train ACC :  0.67421875
+Test Model
+Correct :  6295
+Num :  10000
+Test ACC :  0.6295
+Top 5 ACC :  0.9667
+*******************************
+epoch :  3
+iteration :  50
+loss :  0.43378728270530703
+Correct :  4431
+Num :  6400
+Train ACC :  0.69234375
+*******************************
+epoch :  3
+iteration :  100
+loss :  0.4304991286993027
+Correct :  4451
+Num :  6400
+Train ACC :  0.69546875
+*******************************
+epoch :  3
+iteration :  150
+loss :  0.4157069188356399
+Correct :  4518
+Num :  6400
+Train ACC :  0.7059375
+*******************************
+epoch :  3
+iteration :  200
+loss :  0.4160966056585312
+Correct :  4521
+Num :  6400
+Train ACC :  0.70640625
+*******************************
+epoch :  3
+iteration :  250
+loss :  0.40532332062721255
+Correct :  4570
+Num :  6400
+Train ACC :  0.7140625
+*******************************
+epoch :  3
+iteration :  300
+loss :  0.39030931413173675
+Correct :  4691
+Num :  6400
+Train ACC :  0.73296875
+*******************************
+epoch :  3
+iteration :  350
+loss :  0.3940350544452667
+Correct :  4659
+Num :  6400
+Train ACC :  0.72796875
+Test Model
+Correct :  7114
+Num :  10000
+Test ACC :  0.7114
+Top 5 ACC :  0.9795
+*******************************
+epoch :  4
+iteration :  50
+loss :  0.3613610053062439
+Correct :  4790
+Num :  6400
+Train ACC :  0.7484375
+*******************************
+epoch :  4
+iteration :  100
+loss :  0.3718315044045448
+Correct :  4732
+Num :  6400
+Train ACC :  0.739375
+*******************************
+epoch :  4
+iteration :  150
+loss :  0.36382551610469815
+Correct :  4786
+Num :  6400
+Train ACC :  0.7478125
+*******************************
+epoch :  4
+iteration :  200
+loss :  0.35289009660482407
+Correct :  4871
+Num :  6400
+Train ACC :  0.76109375
+*******************************
+epoch :  4
+iteration :  250
+loss :  0.3508796083927155
+Correct :  4888
+Num :  6400
+Train ACC :  0.76375
+*******************************
+epoch :  4
+iteration :  300
+loss :  0.34833390116691587
+Correct :  4832
+Num :  6400
+Train ACC :  0.755
+*******************************
+epoch :  4
+iteration :  350
+loss :  0.33361203253269195
+Correct :  4921
+Num :  6400
+Train ACC :  0.76890625
+Test Model
+Correct :  7106
+Num :  10000
+Test ACC :  0.7106
+Top 5 ACC :  0.9829
+*******************************
+epoch :  5
+iteration :  50
+loss :  0.3244910952448845
+Correct :  4966
+Num :  6400
+Train ACC :  0.7759375
+*******************************
+epoch :  5
+iteration :  100
+loss :  0.31359895765781404
+Correct :  5030
+Num :  6400
+Train ACC :  0.7859375
+*******************************
+epoch :  5
+iteration :  150
+loss :  0.32400489717721936
+Correct :  4957
+Num :  6400
+Train ACC :  0.77453125
+*******************************
+epoch :  5
+iteration :  200
+loss :  0.3289850100874901
+Correct :  4942
+Num :  6400
+Train ACC :  0.7721875
+*******************************
+epoch :  5
+iteration :  250
+loss :  0.31491993099451066
+Correct :  4998
+Num :  6400
+Train ACC :  0.7809375
+*******************************
+epoch :  5
+iteration :  300
+loss :  0.31222480446100237
+Correct :  5037
+Num :  6400
+Train ACC :  0.78703125
+*******************************
+epoch :  5
+iteration :  350
+loss :  0.3151661658287048
+Correct :  4996
+Num :  6400
+Train ACC :  0.780625
+Test Model
+Correct :  7538
+Num :  10000
+Test ACC :  0.7538
+Top 5 ACC :  0.9827
+*******************************
+epoch :  6
+iteration :  50
+loss :  0.2936695909500122
+Correct :  5116
+Num :  6400
+Train ACC :  0.799375
+*******************************
+epoch :  6
+iteration :  100
+loss :  0.2826584628224373
+Correct :  5147
+Num :  6400
+Train ACC :  0.80421875
+*******************************
+epoch :  6
+iteration :  150
+loss :  0.2857197833061218
+Correct :  5132
+Num :  6400
+Train ACC :  0.801875
+*******************************
+epoch :  6
+iteration :  200
+loss :  0.28857451856136324
+Correct :  5094
+Num :  6400
+Train ACC :  0.7959375
+*******************************
+epoch :  6
+iteration :  250
+loss :  0.2904734706878662
+Correct :  5111
+Num :  6400
+Train ACC :  0.79859375
+*******************************
+epoch :  6
+iteration :  300
+loss :  0.2760698965191841
+Correct :  5197
+Num :  6400
+Train ACC :  0.81203125
+*******************************
+epoch :  6
+iteration :  350
+loss :  0.2817501014471054
+Correct :  5190
+Num :  6400
+Train ACC :  0.8109375
+Test Model
+Correct :  7940
+Num :  10000
+Test ACC :  0.794
+Top 5 ACC :  0.9888
+*******************************
+epoch :  7
+iteration :  50
+loss :  0.262383371591568
+Correct :  5258
+Num :  6400
+Train ACC :  0.8215625
+*******************************
+epoch :  7
+iteration :  100
+loss :  0.2533190906047821
+Correct :  5282
+Num :  6400
+Train ACC :  0.8253125
+*******************************
+epoch :  7
+iteration :  150
+loss :  0.261201040148735
+Correct :  5283
+Num :  6400
+Train ACC :  0.82546875
+*******************************
+epoch :  7
+iteration :  200
+loss :  0.2577219304442406
+Correct :  5267
+Num :  6400
+Train ACC :  0.82296875
+*******************************
+epoch :  7
+iteration :  250
+loss :  0.2571923717856407
+Correct :  5300
+Num :  6400
+Train ACC :  0.828125
+*******************************
+epoch :  7
+iteration :  300
+loss :  0.26597891956567765
+Correct :  5236
+Num :  6400
+Train ACC :  0.818125
+*******************************
+epoch :  7
+iteration :  350
+loss :  0.2551155185699463
+Correct :  5279
+Num :  6400
+Train ACC :  0.82484375
+Test Model
+Correct :  8194
+Num :  10000
+Test ACC :  0.8194
+Top 5 ACC :  0.9914
+*******************************
+epoch :  8
+iteration :  50
+loss :  0.23543549239635467
+Correct :  5375
+Num :  6400
+Train ACC :  0.83984375
+*******************************
+epoch :  8
+iteration :  100
+loss :  0.2447407504916191
+Correct :  5320
+Num :  6400
+Train ACC :  0.83125
+*******************************
+epoch :  8
+iteration :  150
+loss :  0.23300236731767654
+Correct :  5379
+Num :  6400
+Train ACC :  0.84046875
+*******************************
+epoch :  8
+iteration :  200
+loss :  0.25147630751132966
+Correct :  5273
+Num :  6400
+Train ACC :  0.82390625
+*******************************
+epoch :  8
+iteration :  250
+loss :  0.2380567905306816
+Correct :  5347
+Num :  6400
+Train ACC :  0.83546875
+*******************************
+epoch :  8
+iteration :  300
+loss :  0.24384594827890396
+Correct :  5355
+Num :  6400
+Train ACC :  0.83671875
+*******************************
+epoch :  8
+iteration :  350
+loss :  0.23926566660404205
+Correct :  5360
+Num :  6400
+Train ACC :  0.8375
+Test Model
+Correct :  8055
+Num :  10000
+Test ACC :  0.8055
+Top 5 ACC :  0.99
+*******************************
+epoch :  9
+iteration :  50
+loss :  0.22035143852233888
+Correct :  5429
+Num :  6400
+Train ACC :  0.84828125
+*******************************
+epoch :  9
+iteration :  100
+loss :  0.22458615124225617
+Correct :  5430
+Num :  6400
+Train ACC :  0.8484375
+*******************************
+epoch :  9
+iteration :  150
+loss :  0.21779724568128586
+Correct :  5446
+Num :  6400
+Train ACC :  0.8509375
+*******************************
+epoch :  9
+iteration :  200
+loss :  0.2268113961815834
+Correct :  5391
+Num :  6400
+Train ACC :  0.84234375
+*******************************
+epoch :  9
+iteration :  250
+loss :  0.21963586032390595
+Correct :  5429
+Num :  6400
+Train ACC :  0.84828125
+*******************************
+epoch :  9
+iteration :  300
+loss :  0.21850451916456223
+Correct :  5431
+Num :  6400
+Train ACC :  0.84859375
+*******************************
+epoch :  9
+iteration :  350
+loss :  0.23210409194231033
+Correct :  5403
+Num :  6400
+Train ACC :  0.84421875
+Test Model
+Correct :  8207
+Num :  10000
+Test ACC :  0.8207
+Top 5 ACC :  0.9888
+*******************************
+epoch :  10
+iteration :  50
+loss :  0.1995510631799698
+Correct :  5500
+Num :  6400
+Train ACC :  0.859375
+*******************************
+epoch :  10
+iteration :  100
+loss :  0.2026452526450157
+Correct :  5512
+Num :  6400
+Train ACC :  0.86125
+*******************************
+epoch :  10
+iteration :  150
+loss :  0.2000896978378296
+Correct :  5514
+Num :  6400
+Train ACC :  0.8615625
+*******************************
+epoch :  10
+iteration :  200
+loss :  0.21107703566551209
+Correct :  5483
+Num :  6400
+Train ACC :  0.85671875
+*******************************
+epoch :  10
+iteration :  250
+loss :  0.2085132947564125
+Correct :  5487
+Num :  6400
+Train ACC :  0.85734375
+*******************************
+epoch :  10
+iteration :  300
+loss :  0.20964811742305756
+Correct :  5480
+Num :  6400
+Train ACC :  0.85625
+*******************************
+epoch :  10
+iteration :  350
+loss :  0.21754683792591095
+Correct :  5442
+Num :  6400
+Train ACC :  0.8503125
+Test Model
+Correct :  8477
+Num :  10000
+Test ACC :  0.8477
+Top 5 ACC :  0.9946
+*******************************
+epoch :  11
+iteration :  50
+loss :  0.1860216648876667
+Correct :  5594
+Num :  6400
+Train ACC :  0.8740625
+*******************************
+epoch :  11
+iteration :  100
+loss :  0.18182816490530967
+Correct :  5583
+Num :  6400
+Train ACC :  0.87234375
+*******************************
+epoch :  11
+iteration :  150
+loss :  0.19437960103154184
+Correct :  5525
+Num :  6400
+Train ACC :  0.86328125
+*******************************
+epoch :  11
+iteration :  200
+loss :  0.1845447002351284
+Correct :  5574
+Num :  6400
+Train ACC :  0.8709375
+*******************************
+epoch :  11
+iteration :  250
+loss :  0.19563280791044235
+Correct :  5573
+Num :  6400
+Train ACC :  0.87078125
+*******************************
+epoch :  11
+iteration :  300
+loss :  0.19350612983107568
+Correct :  5558
+Num :  6400
+Train ACC :  0.8684375
+*******************************
+epoch :  11
+iteration :  350
+loss :  0.1992281696200371
+Correct :  5546
+Num :  6400
+Train ACC :  0.8665625
+Test Model
+Correct :  8621
+Num :  10000
+Test ACC :  0.8621
+Top 5 ACC :  0.995
+*******************************
+epoch :  12
+iteration :  50
+loss :  0.17393371984362602
+Correct :  5607
+Num :  6400
+Train ACC :  0.87609375
+*******************************
+epoch :  12
+iteration :  100
+loss :  0.190236836373806
+Correct :  5561
+Num :  6400
+Train ACC :  0.86890625
+*******************************
+epoch :  12
+iteration :  150
+loss :  0.17483551740646364
+Correct :  5599
+Num :  6400
+Train ACC :  0.87484375
+*******************************
+epoch :  12
+iteration :  200
+loss :  0.17128636568784714
+Correct :  5634
+Num :  6400
+Train ACC :  0.8803125
+*******************************
+epoch :  12
+iteration :  250
+loss :  0.18137044131755828
+Correct :  5601
+Num :  6400
+Train ACC :  0.87515625
+*******************************
+epoch :  12
+iteration :  300
+loss :  0.17584126189351082
+Correct :  5611
+Num :  6400
+Train ACC :  0.87671875
+*******************************
+epoch :  12
+iteration :  350
+loss :  0.18345715269446372
+Correct :  5599
+Num :  6400
+Train ACC :  0.87484375
+Test Model
+Correct :  8338
+Num :  10000
+Test ACC :  0.8338
+Top 5 ACC :  0.9906
+*******************************
+epoch :  13
+iteration :  50
+loss :  0.1543865117430687
+Correct :  5710
+Num :  6400
+Train ACC :  0.8921875
+*******************************
+epoch :  13
+iteration :  100
+loss :  0.15732405856251716
+Correct :  5689
+Num :  6400
+Train ACC :  0.88890625
+*******************************
+epoch :  13
+iteration :  150
+loss :  0.16613647684454919
+Correct :  5696
+Num :  6400
+Train ACC :  0.89
+*******************************
+epoch :  13
+iteration :  200
+loss :  0.16438356310129165
+Correct :  5662
+Num :  6400
+Train ACC :  0.8846875
+*******************************
+epoch :  13
+iteration :  250
+loss :  0.16113171964883805
+Correct :  5694
+Num :  6400
+Train ACC :  0.8896875
+*******************************
+epoch :  13
+iteration :  300
+loss :  0.1653720571100712
+Correct :  5670
+Num :  6400
+Train ACC :  0.8859375
+*******************************
+epoch :  13
+iteration :  350
+loss :  0.1680659109354019
+Correct :  5641
+Num :  6400
+Train ACC :  0.88140625
+Test Model
+Correct :  8566
+Num :  10000
+Test ACC :  0.8566
+Top 5 ACC :  0.995
+*******************************
+epoch :  14
+iteration :  50
+loss :  0.14303621008992196
+Correct :  5783
+Num :  6400
+Train ACC :  0.90359375
+*******************************
+epoch :  14
+iteration :  100
+loss :  0.15040071859955786
+Correct :  5749
+Num :  6400
+Train ACC :  0.89828125
+*******************************
+epoch :  14
+iteration :  150
+loss :  0.15064091846346855
+Correct :  5727
+Num :  6400
+Train ACC :  0.89484375
+*******************************
+epoch :  14
+iteration :  200
+loss :  0.15584693759679794
+Correct :  5707
+Num :  6400
+Train ACC :  0.89171875
+*******************************
+epoch :  14
+iteration :  250
+loss :  0.15381278857588768
+Correct :  5708
+Num :  6400
+Train ACC :  0.891875
+*******************************
+epoch :  14
+iteration :  300
+loss :  0.1498198102414608
+Correct :  5732
+Num :  6400
+Train ACC :  0.895625
+*******************************
+epoch :  14
+iteration :  350
+loss :  0.16931758299469948
+Correct :  5639
+Num :  6400
+Train ACC :  0.88109375
+Test Model
+Correct :  8628
+Num :  10000
+Test ACC :  0.8628
+Top 5 ACC :  0.9942
+*******************************
+epoch :  15
+iteration :  50
+loss :  0.13845717057585716
+Correct :  5793
+Num :  6400
+Train ACC :  0.90515625
+*******************************
+epoch :  15
+iteration :  100
+loss :  0.14027537360787393
+Correct :  5769
+Num :  6400
+Train ACC :  0.90140625
+*******************************
+epoch :  15
+iteration :  150
+loss :  0.135286273509264
+Correct :  5801
+Num :  6400
+Train ACC :  0.90640625
+*******************************
+epoch :  15
+iteration :  200
+loss :  0.13977175056934357
+Correct :  5776
+Num :  6400
+Train ACC :  0.9025
+*******************************
+epoch :  15
+iteration :  250
+loss :  0.13856067836284638
+Correct :  5808
+Num :  6400
+Train ACC :  0.9075
+*******************************
+epoch :  15
+iteration :  300
+loss :  0.14578015342354775
+Correct :  5734
+Num :  6400
+Train ACC :  0.8959375
+*******************************
+epoch :  15
+iteration :  350
+loss :  0.14659739017486573
+Correct :  5776
+Num :  6400
+Train ACC :  0.9025
+Test Model
+Correct :  8647
+Num :  10000
+Test ACC :  0.8647
+Top 5 ACC :  0.9951
+*******************************
+epoch :  16
+iteration :  50
+loss :  0.12329987615346909
+Correct :  5837
+Num :  6400
+Train ACC :  0.91203125
+*******************************
+epoch :  16
+iteration :  100
+loss :  0.13020203799009322
+Correct :  5833
+Num :  6400
+Train ACC :  0.91140625
+*******************************
+epoch :  16
+iteration :  150
+loss :  0.12639327645301818
+Correct :  5843
+Num :  6400
+Train ACC :  0.91296875
+*******************************
+epoch :  16
+iteration :  200
+loss :  0.1411748468875885
+Correct :  5767
+Num :  6400
+Train ACC :  0.90109375
+*******************************
+epoch :  16
+iteration :  250
+loss :  0.1289244283735752
+Correct :  5843
+Num :  6400
+Train ACC :  0.91296875
+*******************************
+epoch :  16
+iteration :  300
+loss :  0.136003757417202
+Correct :  5790
+Num :  6400
+Train ACC :  0.9046875
+*******************************
+epoch :  16
+iteration :  350
+loss :  0.14132211953401566
+Correct :  5782
+Num :  6400
+Train ACC :  0.9034375
+Test Model
+Correct :  8724
+Num :  10000
+Test ACC :  0.8724
+Top 5 ACC :  0.9955
+*******************************
+epoch :  17
+iteration :  50
+loss :  0.12127206683158874
+Correct :  5833
+Num :  6400
+Train ACC :  0.91140625
+*******************************
+epoch :  17
+iteration :  100
+loss :  0.11139227479696273
+Correct :  5897
+Num :  6400
+Train ACC :  0.92140625
+*******************************
+epoch :  17
+iteration :  150
+loss :  0.12515017069876194
+Correct :  5843
+Num :  6400
+Train ACC :  0.91296875
+*******************************
+epoch :  17
+iteration :  200
+loss :  0.12736485973000528
+Correct :  5823
+Num :  6400
+Train ACC :  0.90984375
+*******************************
+epoch :  17
+iteration :  250
+loss :  0.1414435275644064
+Correct :  5801
+Num :  6400
+Train ACC :  0.90640625
+*******************************
+epoch :  17
+iteration :  300
+loss :  0.1179924064129591
+Correct :  5867
+Num :  6400
+Train ACC :  0.91671875
+*******************************
+epoch :  17
+iteration :  350
+loss :  0.1193118354678154
+Correct :  5888
+Num :  6400
+Train ACC :  0.92
+Test Model
+Correct :  8693
+Num :  10000
+Test ACC :  0.8693
+Top 5 ACC :  0.9952
+*******************************
+epoch :  18
+iteration :  50
+loss :  0.09876704387366772
+Correct :  5960
+Num :  6400
+Train ACC :  0.93125
+*******************************
+epoch :  18
+iteration :  100
+loss :  0.1028317341208458
+Correct :  5955
+Num :  6400
+Train ACC :  0.93046875
+*******************************
+epoch :  18
+iteration :  150
+loss :  0.11592530533671379
+Correct :  5898
+Num :  6400
+Train ACC :  0.9215625
+*******************************
+epoch :  18
+iteration :  200
+loss :  0.10868007183074951
+Correct :  5902
+Num :  6400
+Train ACC :  0.9221875
+*******************************
+epoch :  18
+iteration :  250
+loss :  0.11354834854602813
+Correct :  5901
+Num :  6400
+Train ACC :  0.92203125
+*******************************
+epoch :  18
+iteration :  300
+loss :  0.1168949032574892
+Correct :  5894
+Num :  6400
+Train ACC :  0.9209375
+*******************************
+epoch :  18
+iteration :  350
+loss :  0.11745408728718758
+Correct :  5873
+Num :  6400
+Train ACC :  0.91765625
+Test Model
+Correct :  8692
+Num :  10000
+Test ACC :  0.8692
+Top 5 ACC :  0.9944
+*******************************
+epoch :  19
+iteration :  50
+loss :  0.09562646992504596
+Correct :  5995
+Num :  6400
+Train ACC :  0.93671875
+*******************************
+epoch :  19
+iteration :  100
+loss :  0.10577669747173786
+Correct :  5936
+Num :  6400
+Train ACC :  0.9275
+*******************************
+epoch :  19
+iteration :  150
+loss :  0.11179471746087075
+Correct :  5903
+Num :  6400
+Train ACC :  0.92234375
+*******************************
+epoch :  19
+iteration :  200
+loss :  0.10526552110910416
+Correct :  5946
+Num :  6400
+Train ACC :  0.9290625
+*******************************
+epoch :  19
+iteration :  250
+loss :  0.10173865705728531
+Correct :  5937
+Num :  6400
+Train ACC :  0.92765625
+*******************************
+epoch :  19
+iteration :  300
+loss :  0.11213492326438428
+Correct :  5908
+Num :  6400
+Train ACC :  0.923125
+*******************************
+epoch :  19
+iteration :  350
+loss :  0.11151655159890651
+Correct :  5909
+Num :  6400
+Train ACC :  0.92328125
+Test Model
+Correct :  8737
+Num :  10000
+Test ACC :  0.8737
+Top 5 ACC :  0.9956
+*******************************
+epoch :  20
+iteration :  50
+loss :  0.09192542336881161
+Correct :  5976
+Num :  6400
+Train ACC :  0.93375
+*******************************
+epoch :  20
+iteration :  100
+loss :  0.09840881824493408
+Correct :  5963
+Num :  6400
+Train ACC :  0.93171875
+*******************************
+epoch :  20
+iteration :  150
+loss :  0.09540765158832074
+Correct :  5974
+Num :  6400
+Train ACC :  0.9334375
+*******************************
+epoch :  20
+iteration :  200
+loss :  0.10437279172241688
+Correct :  5943
+Num :  6400
+Train ACC :  0.92859375
+*******************************
+epoch :  20
+iteration :  250
+loss :  0.09933146089315414
+Correct :  5955
+Num :  6400
+Train ACC :  0.93046875
+*******************************
+epoch :  20
+iteration :  300
+loss :  0.10003176368772984
+Correct :  5929
+Num :  6400
+Train ACC :  0.92640625
+*******************************
+epoch :  20
+iteration :  350
+loss :  0.10030379965901375
+Correct :  5960
+Num :  6400
+Train ACC :  0.93125
+Test Model
+Correct :  8691
+Num :  10000
+Test ACC :  0.8691
+Top 5 ACC :  0.9942
+*******************************
+epoch :  21
+iteration :  50
+loss :  0.07329349398612976
+Correct :  6051
+Num :  6400
+Train ACC :  0.94546875
+*******************************
+epoch :  21
+iteration :  100
+loss :  0.09206796690821648
+Correct :  5981
+Num :  6400
+Train ACC :  0.93453125
+*******************************
+epoch :  21
+iteration :  150
+loss :  0.08694692030549049
+Correct :  6014
+Num :  6400
+Train ACC :  0.9396875
+*******************************
+epoch :  21
+iteration :  200
+loss :  0.08735292509198189
+Correct :  6035
+Num :  6400
+Train ACC :  0.94296875
+*******************************
+epoch :  21
+iteration :  250
+loss :  0.09169614158570766
+Correct :  5992
+Num :  6400
+Train ACC :  0.93625
+*******************************
+epoch :  21
+iteration :  300
+loss :  0.09182995401322841
+Correct :  6007
+Num :  6400
+Train ACC :  0.93859375
+*******************************
+epoch :  21
+iteration :  350
+loss :  0.09153093919157981
+Correct :  6005
+Num :  6400
+Train ACC :  0.93828125
+Test Model
+Correct :  8737
+Num :  10000
+Test ACC :  0.8737
+Top 5 ACC :  0.9945
+*******************************
+epoch :  22
+iteration :  50
+loss :  0.06866438768804073
+Correct :  6106
+Num :  6400
+Train ACC :  0.9540625
+*******************************
+epoch :  22
+iteration :  100
+loss :  0.08443510886281728
+Correct :  6026
+Num :  6400
+Train ACC :  0.9415625
+*******************************
+epoch :  22
+iteration :  150
+loss :  0.07915385313332081
+Correct :  6046
+Num :  6400
+Train ACC :  0.9446875
+*******************************
+epoch :  22
+iteration :  200
+loss :  0.0793711219727993
+Correct :  6058
+Num :  6400
+Train ACC :  0.9465625
+*******************************
+epoch :  22
+iteration :  250
+loss :  0.08527768675237894
+Correct :  6008
+Num :  6400
+Train ACC :  0.93875
+*******************************
+epoch :  22
+iteration :  300
+loss :  0.08152457773685455
+Correct :  6039
+Num :  6400
+Train ACC :  0.94359375
+*******************************
+epoch :  22
+iteration :  350
+loss :  0.09065702885389328
+Correct :  6018
+Num :  6400
+Train ACC :  0.9403125
+Test Model
+Correct :  8803
+Num :  10000
+Test ACC :  0.8803
+Top 5 ACC :  0.9952
+*******************************
+epoch :  23
+iteration :  50
+loss :  0.07204097367823124
+Correct :  6072
+Num :  6400
+Train ACC :  0.94875
+*******************************
+epoch :  23
+iteration :  100
+loss :  0.07191917274147272
+Correct :  6083
+Num :  6400
+Train ACC :  0.95046875
+*******************************
+epoch :  23
+iteration :  150
+loss :  0.07315497551113367
+Correct :  6074
+Num :  6400
+Train ACC :  0.9490625
+*******************************
+epoch :  23
+iteration :  200
+loss :  0.0749285714328289
+Correct :  6080
+Num :  6400
+Train ACC :  0.95
+*******************************
+epoch :  23
+iteration :  250
+loss :  0.08401239071041346
+Correct :  6026
+Num :  6400
+Train ACC :  0.9415625
+*******************************
+epoch :  23
+iteration :  300
+loss :  0.08692730858922004
+Correct :  6014
+Num :  6400
+Train ACC :  0.9396875
+*******************************
+epoch :  23
+iteration :  350
+loss :  0.08088759906589985
+Correct :  6032
+Num :  6400
+Train ACC :  0.9425
+Test Model
+Correct :  8877
+Num :  10000
+Test ACC :  0.8877
+Top 5 ACC :  0.9959
+*******************************
+epoch :  24
+iteration :  50
+loss :  0.06592985644936561
+Correct :  6100
+Num :  6400
+Train ACC :  0.953125
+*******************************
+epoch :  24
+iteration :  100
+loss :  0.06510105848312378
+Correct :  6102
+Num :  6400
+Train ACC :  0.9534375
+*******************************
+epoch :  24
+iteration :  150
+loss :  0.06826508197933435
+Correct :  6088
+Num :  6400
+Train ACC :  0.95125
+*******************************
+epoch :  24
+iteration :  200
+loss :  0.07082825131714345
+Correct :  6081
+Num :  6400
+Train ACC :  0.95015625
+*******************************
+epoch :  24
+iteration :  250
+loss :  0.07070557404309512
+Correct :  6058
+Num :  6400
+Train ACC :  0.9465625
+*******************************
+epoch :  24
+iteration :  300
+loss :  0.07299851138144732
+Correct :  6085
+Num :  6400
+Train ACC :  0.95078125
+*******************************
+epoch :  24
+iteration :  350
+loss :  0.0709665759652853
+Correct :  6086
+Num :  6400
+Train ACC :  0.9509375
+Test Model
+Correct :  8766
+Num :  10000
+Test ACC :  0.8766
+Top 5 ACC :  0.9952
+*******************************
+epoch :  25
+iteration :  50
+loss :  0.06662199702113866
+Correct :  6100
+Num :  6400
+Train ACC :  0.953125
+*******************************
+epoch :  25
+iteration :  100
+loss :  0.059069914780557155
+Correct :  6130
+Num :  6400
+Train ACC :  0.9578125
+*******************************
+epoch :  25
+iteration :  150
+loss :  0.06649968076497316
+Correct :  6113
+Num :  6400
+Train ACC :  0.95515625
+*******************************
+epoch :  25
+iteration :  200
+loss :  0.06374480590224266
+Correct :  6110
+Num :  6400
+Train ACC :  0.9546875
+*******************************
+epoch :  25
+iteration :  250
+loss :  0.06670962549746036
+Correct :  6104
+Num :  6400
+Train ACC :  0.95375
+*******************************
+epoch :  25
+iteration :  300
+loss :  0.06824032787233592
+Correct :  6086
+Num :  6400
+Train ACC :  0.9509375
+*******************************
+epoch :  25
+iteration :  350
+loss :  0.06774352546781301
+Correct :  6100
+Num :  6400
+Train ACC :  0.953125
+Test Model
+Correct :  8817
+Num :  10000
+Test ACC :  0.8817
+Top 5 ACC :  0.9965
+*******************************
+epoch :  26
+iteration :  50
+loss :  0.052332113571465014
+Correct :  6166
+Num :  6400
+Train ACC :  0.9634375
+*******************************
+epoch :  26
+iteration :  100
+loss :  0.05872450821101666
+Correct :  6130
+Num :  6400
+Train ACC :  0.9578125
+*******************************
+epoch :  26
+iteration :  150
+loss :  0.059861412793397906
+Correct :  6139
+Num :  6400
+Train ACC :  0.95921875
+*******************************
+epoch :  26
+iteration :  200
+loss :  0.055010239854454995
+Correct :  6153
+Num :  6400
+Train ACC :  0.96140625
+*******************************
+epoch :  26
+iteration :  250
+loss :  0.05563518568873405
+Correct :  6145
+Num :  6400
+Train ACC :  0.96015625
+*******************************
+epoch :  26
+iteration :  300
+loss :  0.06256970711052418
+Correct :  6113
+Num :  6400
+Train ACC :  0.95515625
+*******************************
+epoch :  26
+iteration :  350
+loss :  0.06063575405627489
+Correct :  6129
+Num :  6400
+Train ACC :  0.95765625
+Test Model
+Correct :  8835
+Num :  10000
+Test ACC :  0.8835
+Top 5 ACC :  0.9958
+*******************************
+epoch :  27
+iteration :  50
+loss :  0.05355563700199127
+Correct :  6167
+Num :  6400
+Train ACC :  0.96359375
+*******************************
+epoch :  27
+iteration :  100
+loss :  0.04891014292836189
+Correct :  6191
+Num :  6400
+Train ACC :  0.96734375
+*******************************
+epoch :  27
+iteration :  150
+loss :  0.04990635186433792
+Correct :  6200
+Num :  6400
+Train ACC :  0.96875
+*******************************
+epoch :  27
+iteration :  200
+loss :  0.05264023777097464
+Correct :  6169
+Num :  6400
+Train ACC :  0.96390625
+*******************************
+epoch :  27
+iteration :  250
+loss :  0.05304932434111834
+Correct :  6163
+Num :  6400
+Train ACC :  0.96296875
+*******************************
+epoch :  27
+iteration :  300
+loss :  0.05575136965140701
+Correct :  6165
+Num :  6400
+Train ACC :  0.96328125
+*******************************
+epoch :  27
+iteration :  350
+loss :  0.05242739493027329
+Correct :  6173
+Num :  6400
+Train ACC :  0.96453125
+Test Model
+Correct :  8916
+Num :  10000
+Test ACC :  0.8916
+Top 5 ACC :  0.9955
+*******************************
+epoch :  28
+iteration :  50
+loss :  0.0423854480497539
+Correct :  6210
+Num :  6400
+Train ACC :  0.9703125
+*******************************
+epoch :  28
+iteration :  100
+loss :  0.047006410248577594
+Correct :  6188
+Num :  6400
+Train ACC :  0.966875
+*******************************
+epoch :  28
+iteration :  150
+loss :  0.04640117809176445
+Correct :  6191
+Num :  6400
+Train ACC :  0.96734375
+*******************************
+epoch :  28
+iteration :  200
+loss :  0.048805556520819665
+Correct :  6179
+Num :  6400
+Train ACC :  0.96546875
+*******************************
+epoch :  28
+iteration :  250
+loss :  0.04518865272402763
+Correct :  6203
+Num :  6400
+Train ACC :  0.96921875
+*******************************
+epoch :  28
+iteration :  300
+loss :  0.05164073444902897
+Correct :  6160
+Num :  6400
+Train ACC :  0.9625
+*******************************
+epoch :  28
+iteration :  350
+loss :  0.05861228646710515
+Correct :  6149
+Num :  6400
+Train ACC :  0.96078125
+Test Model
+Correct :  8903
+Num :  10000
+Test ACC :  0.8903
+Top 5 ACC :  0.9962
+*******************************
+epoch :  29
+iteration :  50
+loss :  0.04393650257959962
+Correct :  6194
+Num :  6400
+Train ACC :  0.9678125
+*******************************
+epoch :  29
+iteration :  100
+loss :  0.04458872191607952
+Correct :  6211
+Num :  6400
+Train ACC :  0.97046875
+*******************************
+epoch :  29
+iteration :  150
+loss :  0.03851375747472048
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  29
+iteration :  200
+loss :  0.045739915799349544
+Correct :  6208
+Num :  6400
+Train ACC :  0.97
+*******************************
+epoch :  29
+iteration :  250
+loss :  0.047417380549013614
+Correct :  6178
+Num :  6400
+Train ACC :  0.9653125
+*******************************
+epoch :  29
+iteration :  300
+loss :  0.051068034470081326
+Correct :  6173
+Num :  6400
+Train ACC :  0.96453125
+*******************************
+epoch :  29
+iteration :  350
+loss :  0.04688143542036414
+Correct :  6200
+Num :  6400
+Train ACC :  0.96875
+Test Model
+Correct :  8891
+Num :  10000
+Test ACC :  0.8891
+Top 5 ACC :  0.9957
+*******************************
+epoch :  30
+iteration :  50
+loss :  0.04049817753955722
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+*******************************
+epoch :  30
+iteration :  100
+loss :  0.04761066865175963
+Correct :  6202
+Num :  6400
+Train ACC :  0.9690625
+*******************************
+epoch :  30
+iteration :  150
+loss :  0.039054330885410306
+Correct :  6222
+Num :  6400
+Train ACC :  0.9721875
+*******************************
+epoch :  30
+iteration :  200
+loss :  0.039514058418571946
+Correct :  6224
+Num :  6400
+Train ACC :  0.9725
+*******************************
+epoch :  30
+iteration :  250
+loss :  0.045036446303129196
+Correct :  6204
+Num :  6400
+Train ACC :  0.969375
+*******************************
+epoch :  30
+iteration :  300
+loss :  0.04164923267439008
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+*******************************
+epoch :  30
+iteration :  350
+loss :  0.03973112527281046
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+Test Model
+Correct :  8870
+Num :  10000
+Test ACC :  0.887
+Top 5 ACC :  0.9957
+*******************************
+epoch :  31
+iteration :  50
+loss :  0.04004824455827474
+Correct :  6225
+Num :  6400
+Train ACC :  0.97265625
+*******************************
+epoch :  31
+iteration :  100
+loss :  0.0366382403858006
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  31
+iteration :  150
+loss :  0.04000115785747767
+Correct :  6216
+Num :  6400
+Train ACC :  0.97125
+*******************************
+epoch :  31
+iteration :  200
+loss :  0.04021168993785977
+Correct :  6217
+Num :  6400
+Train ACC :  0.97140625
+*******************************
+epoch :  31
+iteration :  250
+loss :  0.03737103873863816
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  31
+iteration :  300
+loss :  0.037950065601617095
+Correct :  6237
+Num :  6400
+Train ACC :  0.97453125
+*******************************
+epoch :  31
+iteration :  350
+loss :  0.041420368868857624
+Correct :  6208
+Num :  6400
+Train ACC :  0.97
+Test Model
+Correct :  8858
+Num :  10000
+Test ACC :  0.8858
+Top 5 ACC :  0.9953
+*******************************
+epoch :  32
+iteration :  50
+loss :  0.03569077581167221
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+*******************************
+epoch :  32
+iteration :  100
+loss :  0.034084992595016954
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  32
+iteration :  150
+loss :  0.038308838084340095
+Correct :  6229
+Num :  6400
+Train ACC :  0.97328125
+*******************************
+epoch :  32
+iteration :  200
+loss :  0.03322504475712776
+Correct :  6257
+Num :  6400
+Train ACC :  0.97765625
+*******************************
+epoch :  32
+iteration :  250
+loss :  0.03713977012783289
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+*******************************
+epoch :  32
+iteration :  300
+loss :  0.03599415155127644
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  32
+iteration :  350
+loss :  0.03625304084271193
+Correct :  6224
+Num :  6400
+Train ACC :  0.9725
+Test Model
+Correct :  8834
+Num :  10000
+Test ACC :  0.8834
+Top 5 ACC :  0.9955
+*******************************
+epoch :  33
+iteration :  50
+loss :  0.02836277699097991
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+*******************************
+epoch :  33
+iteration :  100
+loss :  0.032422417011111974
+Correct :  6265
+Num :  6400
+Train ACC :  0.97890625
+*******************************
+epoch :  33
+iteration :  150
+loss :  0.03632172465324402
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  33
+iteration :  200
+loss :  0.028764648456126453
+Correct :  6278
+Num :  6400
+Train ACC :  0.9809375
+*******************************
+epoch :  33
+iteration :  250
+loss :  0.032981862369924786
+Correct :  6246
+Num :  6400
+Train ACC :  0.9759375
+*******************************
+epoch :  33
+iteration :  300
+loss :  0.03377643380314112
+Correct :  6246
+Num :  6400
+Train ACC :  0.9759375
+*******************************
+epoch :  33
+iteration :  350
+loss :  0.036544835548847916
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+Test Model
+Correct :  8892
+Num :  10000
+Test ACC :  0.8892
+Top 5 ACC :  0.9964
+*******************************
+epoch :  34
+iteration :  50
+loss :  0.029441910926252604
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+*******************************
+epoch :  34
+iteration :  100
+loss :  0.0307604500092566
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  34
+iteration :  150
+loss :  0.030161916688084604
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  34
+iteration :  200
+loss :  0.0272239444591105
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  34
+iteration :  250
+loss :  0.03211642738431692
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+*******************************
+epoch :  34
+iteration :  300
+loss :  0.033451692666858435
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  34
+iteration :  350
+loss :  0.033374343886971476
+Correct :  6251
+Num :  6400
+Train ACC :  0.97671875
+Test Model
+Correct :  8959
+Num :  10000
+Test ACC :  0.8959
+Top 5 ACC :  0.9963
+*******************************
+epoch :  35
+iteration :  50
+loss :  0.025117927845567465
+Correct :  6274
+Num :  6400
+Train ACC :  0.9803125
+*******************************
+epoch :  35
+iteration :  100
+loss :  0.027394701484590767
+Correct :  6273
+Num :  6400
+Train ACC :  0.98015625
+*******************************
+epoch :  35
+iteration :  150
+loss :  0.025786709133535625
+Correct :  6290
+Num :  6400
+Train ACC :  0.9828125
+*******************************
+epoch :  35
+iteration :  200
+loss :  0.028388007655739785
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+*******************************
+epoch :  35
+iteration :  250
+loss :  0.02852076556533575
+Correct :  6269
+Num :  6400
+Train ACC :  0.97953125
+*******************************
+epoch :  35
+iteration :  300
+loss :  0.03252276150509715
+Correct :  6244
+Num :  6400
+Train ACC :  0.975625
+*******************************
+epoch :  35
+iteration :  350
+loss :  0.032618459183722734
+Correct :  6247
+Num :  6400
+Train ACC :  0.97609375
+Test Model
+Correct :  8913
+Num :  10000
+Test ACC :  0.8913
+Top 5 ACC :  0.9961
+*******************************
+epoch :  36
+iteration :  50
+loss :  0.025853119287639857
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  36
+iteration :  100
+loss :  0.025930876154452564
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+*******************************
+epoch :  36
+iteration :  150
+loss :  0.026641198080033065
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  36
+iteration :  200
+loss :  0.02895586606115103
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+*******************************
+epoch :  36
+iteration :  250
+loss :  0.02632703138515353
+Correct :  6272
+Num :  6400
+Train ACC :  0.98
+*******************************
+epoch :  36
+iteration :  300
+loss :  0.02804713957943022
+Correct :  6272
+Num :  6400
+Train ACC :  0.98
+*******************************
+epoch :  36
+iteration :  350
+loss :  0.02741192301735282
+Correct :  6272
+Num :  6400
+Train ACC :  0.98
+Test Model
+Correct :  8954
+Num :  10000
+Test ACC :  0.8954
+Top 5 ACC :  0.9962
+*******************************
+epoch :  37
+iteration :  50
+loss :  0.02438402911648154
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  37
+iteration :  100
+loss :  0.020593106523156168
+Correct :  6313
+Num :  6400
+Train ACC :  0.98640625
+*******************************
+epoch :  37
+iteration :  150
+loss :  0.027091780714690684
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  37
+iteration :  200
+loss :  0.024686867482960225
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  37
+iteration :  250
+loss :  0.023269543796777724
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  37
+iteration :  300
+loss :  0.02587302217260003
+Correct :  6281
+Num :  6400
+Train ACC :  0.98140625
+*******************************
+epoch :  37
+iteration :  350
+loss :  0.026271404288709162
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+Test Model
+Correct :  8922
+Num :  10000
+Test ACC :  0.8922
+Top 5 ACC :  0.9955
+*******************************
+epoch :  38
+iteration :  50
+loss :  0.023607483226805927
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  38
+iteration :  100
+loss :  0.024220631252974273
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  38
+iteration :  150
+loss :  0.026546162487939
+Correct :  6280
+Num :  6400
+Train ACC :  0.98125
+*******************************
+epoch :  38
+iteration :  200
+loss :  0.024678199365735055
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  38
+iteration :  250
+loss :  0.025221001114696263
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  38
+iteration :  300
+loss :  0.023544592428952456
+Correct :  6286
+Num :  6400
+Train ACC :  0.9821875
+*******************************
+epoch :  38
+iteration :  350
+loss :  0.02330532381311059
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+Test Model
+Correct :  8935
+Num :  10000
+Test ACC :  0.8935
+Top 5 ACC :  0.9955
+*******************************
+epoch :  39
+iteration :  50
+loss :  0.01962338389828801
+Correct :  6320
+Num :  6400
+Train ACC :  0.9875
+*******************************
+epoch :  39
+iteration :  100
+loss :  0.021518373340368272
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  39
+iteration :  150
+loss :  0.025604939721524715
+Correct :  6281
+Num :  6400
+Train ACC :  0.98140625
+*******************************
+epoch :  39
+iteration :  200
+loss :  0.02400983665138483
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+*******************************
+epoch :  39
+iteration :  250
+loss :  0.025071282740682363
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  39
+iteration :  300
+loss :  0.019584867917001248
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  39
+iteration :  350
+loss :  0.02699611165560782
+Correct :  6277
+Num :  6400
+Train ACC :  0.98078125
+Test Model
+Correct :  8942
+Num :  10000
+Test ACC :  0.8942
+Top 5 ACC :  0.9955
+*******************************
+epoch :  40
+iteration :  50
+loss :  0.022365835215896367
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  40
+iteration :  100
+loss :  0.0199987877253443
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  40
+iteration :  150
+loss :  0.019016964901238678
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  40
+iteration :  200
+loss :  0.023949172366410493
+Correct :  6291
+Num :  6400
+Train ACC :  0.98296875
+*******************************
+epoch :  40
+iteration :  250
+loss :  0.025173042006790637
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  40
+iteration :  300
+loss :  0.02444962168112397
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  40
+iteration :  350
+loss :  0.028236043341457844
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+Test Model
+Correct :  8976
+Num :  10000
+Test ACC :  0.8976
+Top 5 ACC :  0.9955
+*******************************
+epoch :  41
+iteration :  50
+loss :  0.021160397632047533
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  41
+iteration :  100
+loss :  0.021994035933166744
+Correct :  6301
+Num :  6400
+Train ACC :  0.98453125
+*******************************
+epoch :  41
+iteration :  150
+loss :  0.018489096015691757
+Correct :  6320
+Num :  6400
+Train ACC :  0.9875
+*******************************
+epoch :  41
+iteration :  200
+loss :  0.018635905981063842
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  41
+iteration :  250
+loss :  0.02073807624168694
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+*******************************
+epoch :  41
+iteration :  300
+loss :  0.02303114555776119
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  41
+iteration :  350
+loss :  0.02266241405159235
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+Test Model
+Correct :  8938
+Num :  10000
+Test ACC :  0.8938
+Top 5 ACC :  0.9955
+*******************************
+epoch :  42
+iteration :  50
+loss :  0.01944279992952943
+Correct :  6317
+Num :  6400
+Train ACC :  0.98703125
+*******************************
+epoch :  42
+iteration :  100
+loss :  0.019289590371772646
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  42
+iteration :  150
+loss :  0.023147131353616714
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  42
+iteration :  200
+loss :  0.022262083422392605
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  42
+iteration :  250
+loss :  0.027158341966569424
+Correct :  6282
+Num :  6400
+Train ACC :  0.9815625
+*******************************
+epoch :  42
+iteration :  300
+loss :  0.023563550962135197
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  42
+iteration :  350
+loss :  0.022851653648540377
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+Test Model
+Correct :  8968
+Num :  10000
+Test ACC :  0.8968
+Top 5 ACC :  0.9957
+*******************************
+epoch :  43
+iteration :  50
+loss :  0.02271919323131442
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  43
+iteration :  100
+loss :  0.020716846119612456
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  43
+iteration :  150
+loss :  0.02543976324610412
+Correct :  6291
+Num :  6400
+Train ACC :  0.98296875
+*******************************
+epoch :  43
+iteration :  200
+loss :  0.018933778516948222
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  43
+iteration :  250
+loss :  0.018625419465824963
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  43
+iteration :  300
+loss :  0.019049545098096133
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  43
+iteration :  350
+loss :  0.02333243452012539
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+Test Model
+Correct :  8946
+Num :  10000
+Test ACC :  0.8946
+Top 5 ACC :  0.9959
+*******************************
+epoch :  44
+iteration :  50
+loss :  0.02072347336448729
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  44
+iteration :  100
+loss :  0.020218441635370253
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  44
+iteration :  150
+loss :  0.018257407331839205
+Correct :  6317
+Num :  6400
+Train ACC :  0.98703125
+*******************************
+epoch :  44
+iteration :  200
+loss :  0.019505054205656052
+Correct :  6317
+Num :  6400
+Train ACC :  0.98703125
+*******************************
+epoch :  44
+iteration :  250
+loss :  0.022014387883245945
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  44
+iteration :  300
+loss :  0.022764345780014992
+Correct :  6294
+Num :  6400
+Train ACC :  0.9834375
+*******************************
+epoch :  44
+iteration :  350
+loss :  0.01933179883286357
+Correct :  6313
+Num :  6400
+Train ACC :  0.98640625
+Test Model
+Correct :  8892
+Num :  10000
+Test ACC :  0.8892
+Top 5 ACC :  0.9953
+*******************************
+epoch :  45
+iteration :  50
+loss :  0.023844225127249957
+Correct :  6290
+Num :  6400
+Train ACC :  0.9828125
+*******************************
+epoch :  45
+iteration :  100
+loss :  0.023874987810850144
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  45
+iteration :  150
+loss :  0.017481374796479942
+Correct :  6325
+Num :  6400
+Train ACC :  0.98828125
+*******************************
+epoch :  45
+iteration :  200
+loss :  0.02040176674723625
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  45
+iteration :  250
+loss :  0.021704338528215884
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  45
+iteration :  300
+loss :  0.024703955613076686
+Correct :  6284
+Num :  6400
+Train ACC :  0.981875
+*******************************
+epoch :  45
+iteration :  350
+loss :  0.02136633301153779
+Correct :  6306
+Num :  6400
+Train ACC :  0.9853125
+Test Model
+Correct :  8933
+Num :  10000
+Test ACC :  0.8933
+Top 5 ACC :  0.9953
+*******************************
+epoch :  46
+iteration :  50
+loss :  0.017361084492877127
+Correct :  6320
+Num :  6400
+Train ACC :  0.9875
+*******************************
+epoch :  46
+iteration :  100
+loss :  0.017934407982975246
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  46
+iteration :  150
+loss :  0.021442115223035216
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+*******************************
+epoch :  46
+iteration :  200
+loss :  0.023795000500977038
+Correct :  6284
+Num :  6400
+Train ACC :  0.981875
+*******************************
+epoch :  46
+iteration :  250
+loss :  0.02137851547449827
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+*******************************
+epoch :  46
+iteration :  300
+loss :  0.019584483234211802
+Correct :  6313
+Num :  6400
+Train ACC :  0.98640625
+*******************************
+epoch :  46
+iteration :  350
+loss :  0.019022216498851777
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+Test Model
+Correct :  8938
+Num :  10000
+Test ACC :  0.8938
+Top 5 ACC :  0.9958
+*******************************
+epoch :  47
+iteration :  50
+loss :  0.019729023147374392
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  47
+iteration :  100
+loss :  0.020255351047962902
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  47
+iteration :  150
+loss :  0.025201519839465617
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  47
+iteration :  200
+loss :  0.02515088029205799
+Correct :  6286
+Num :  6400
+Train ACC :  0.9821875
+*******************************
+epoch :  47
+iteration :  250
+loss :  0.0216289328224957
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  47
+iteration :  300
+loss :  0.025527604073286057
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  47
+iteration :  350
+loss :  0.023233885038644077
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+Test Model
+Correct :  8909
+Num :  10000
+Test ACC :  0.8909
+Top 5 ACC :  0.9951
+*******************************
+epoch :  48
+iteration :  50
+loss :  0.02161307042464614
+Correct :  6297
+Num :  6400
+Train ACC :  0.98390625
+*******************************
+epoch :  48
+iteration :  100
+loss :  0.023048336748033763
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  48
+iteration :  150
+loss :  0.024074614271521567
+Correct :  6294
+Num :  6400
+Train ACC :  0.9834375
+*******************************
+epoch :  48
+iteration :  200
+loss :  0.01897518938407302
+Correct :  6325
+Num :  6400
+Train ACC :  0.98828125
+*******************************
+epoch :  48
+iteration :  250
+loss :  0.028936401959508657
+Correct :  6274
+Num :  6400
+Train ACC :  0.9803125
+*******************************
+epoch :  48
+iteration :  300
+loss :  0.025211335755884648
+Correct :  6294
+Num :  6400
+Train ACC :  0.9834375
+*******************************
+epoch :  48
+iteration :  350
+loss :  0.022582272896543146
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+Test Model
+Correct :  8949
+Num :  10000
+Test ACC :  0.8949
+Top 5 ACC :  0.9954
+*******************************
+epoch :  49
+iteration :  50
+loss :  0.015317072961479425
+Correct :  6332
+Num :  6400
+Train ACC :  0.989375
+*******************************
+epoch :  49
+iteration :  100
+loss :  0.021882517896592617
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  49
+iteration :  150
+loss :  0.018661088915541767
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  49
+iteration :  200
+loss :  0.021025602482259275
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  49
+iteration :  250
+loss :  0.02372493328526616
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  49
+iteration :  300
+loss :  0.024679272156208753
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  49
+iteration :  350
+loss :  0.019229768328368663
+Correct :  6315
+Num :  6400
+Train ACC :  0.98671875
+Test Model
+Correct :  8881
+Num :  10000
+Test ACC :  0.8881
+Top 5 ACC :  0.9952
+*******************************
+epoch :  50
+iteration :  50
+loss :  0.019844847656786443
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  50
+iteration :  100
+loss :  0.020152130108326675
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  50
+iteration :  150
+loss :  0.02289499725215137
+Correct :  6310
+Num :  6400
+Train ACC :  0.9859375
+*******************************
+epoch :  50
+iteration :  200
+loss :  0.024517783205956222
+Correct :  6290
+Num :  6400
+Train ACC :  0.9828125
+*******************************
+epoch :  50
+iteration :  250
+loss :  0.026981042772531508
+Correct :  6284
+Num :  6400
+Train ACC :  0.981875
+*******************************
+epoch :  50
+iteration :  300
+loss :  0.020722099989652635
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  50
+iteration :  350
+loss :  0.022513546999543905
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+Test Model
+Correct :  8888
+Num :  10000
+Test ACC :  0.8888
+Top 5 ACC :  0.9953
+*******************************
+epoch :  51
+iteration :  50
+loss :  0.022242329847067595
+Correct :  6294
+Num :  6400
+Train ACC :  0.9834375
+*******************************
+epoch :  51
+iteration :  100
+loss :  0.026227912986651062
+Correct :  6279
+Num :  6400
+Train ACC :  0.98109375
+*******************************
+epoch :  51
+iteration :  150
+loss :  0.025932060796767475
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  51
+iteration :  200
+loss :  0.0233549817930907
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  51
+iteration :  250
+loss :  0.027693385370075704
+Correct :  6260
+Num :  6400
+Train ACC :  0.978125
+*******************************
+epoch :  51
+iteration :  300
+loss :  0.028356056548655032
+Correct :  6277
+Num :  6400
+Train ACC :  0.98078125
+*******************************
+epoch :  51
+iteration :  350
+loss :  0.026648574229329824
+Correct :  6289
+Num :  6400
+Train ACC :  0.98265625
+Test Model
+Correct :  8908
+Num :  10000
+Test ACC :  0.8908
+Top 5 ACC :  0.9952
+*******************************
+epoch :  52
+iteration :  50
+loss :  0.01745391477830708
+Correct :  6326
+Num :  6400
+Train ACC :  0.9884375
+*******************************
+epoch :  52
+iteration :  100
+loss :  0.0192493053060025
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  52
+iteration :  150
+loss :  0.023334341552108527
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  52
+iteration :  200
+loss :  0.02627601532265544
+Correct :  6282
+Num :  6400
+Train ACC :  0.9815625
+*******************************
+epoch :  52
+iteration :  250
+loss :  0.02701559692621231
+Correct :  6279
+Num :  6400
+Train ACC :  0.98109375
+*******************************
+epoch :  52
+iteration :  300
+loss :  0.02639523085206747
+Correct :  6281
+Num :  6400
+Train ACC :  0.98140625
+*******************************
+epoch :  52
+iteration :  350
+loss :  0.030206534061580897
+Correct :  6262
+Num :  6400
+Train ACC :  0.9784375
+Test Model
+Correct :  8845
+Num :  10000
+Test ACC :  0.8845
+Top 5 ACC :  0.9954
+*******************************
+epoch :  53
+iteration :  50
+loss :  0.025368314292281865
+Correct :  6284
+Num :  6400
+Train ACC :  0.981875
+*******************************
+epoch :  53
+iteration :  100
+loss :  0.018531835675239562
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  53
+iteration :  150
+loss :  0.02292511774227023
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  53
+iteration :  200
+loss :  0.028780566435307263
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+*******************************
+epoch :  53
+iteration :  250
+loss :  0.026798531264066696
+Correct :  6280
+Num :  6400
+Train ACC :  0.98125
+*******************************
+epoch :  53
+iteration :  300
+loss :  0.020652183853089808
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  53
+iteration :  350
+loss :  0.029478007480502128
+Correct :  6264
+Num :  6400
+Train ACC :  0.97875
+Test Model
+Correct :  8919
+Num :  10000
+Test ACC :  0.8919
+Top 5 ACC :  0.996
+*******************************
+epoch :  54
+iteration :  50
+loss :  0.02476672437041998
+Correct :  6291
+Num :  6400
+Train ACC :  0.98296875
+*******************************
+epoch :  54
+iteration :  100
+loss :  0.02329782087355852
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  54
+iteration :  150
+loss :  0.024051945935934783
+Correct :  6282
+Num :  6400
+Train ACC :  0.9815625
+*******************************
+epoch :  54
+iteration :  200
+loss :  0.029881594870239496
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+*******************************
+epoch :  54
+iteration :  250
+loss :  0.024672730043530464
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  54
+iteration :  300
+loss :  0.03374424962326884
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  54
+iteration :  350
+loss :  0.03257184788584709
+Correct :  6257
+Num :  6400
+Train ACC :  0.97765625
+Test Model
+Correct :  8819
+Num :  10000
+Test ACC :  0.8819
+Top 5 ACC :  0.9942
+*******************************
+epoch :  55
+iteration :  50
+loss :  0.024281550236046313
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+*******************************
+epoch :  55
+iteration :  100
+loss :  0.026217856165021657
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  55
+iteration :  150
+loss :  0.03028144667856395
+Correct :  6261
+Num :  6400
+Train ACC :  0.97828125
+*******************************
+epoch :  55
+iteration :  200
+loss :  0.028199636172503234
+Correct :  6269
+Num :  6400
+Train ACC :  0.97953125
+*******************************
+epoch :  55
+iteration :  250
+loss :  0.031165975127369166
+Correct :  6260
+Num :  6400
+Train ACC :  0.978125
+*******************************
+epoch :  55
+iteration :  300
+loss :  0.02700244329869747
+Correct :  6289
+Num :  6400
+Train ACC :  0.98265625
+*******************************
+epoch :  55
+iteration :  350
+loss :  0.028430601134896278
+Correct :  6268
+Num :  6400
+Train ACC :  0.979375
+Test Model
+Correct :  8757
+Num :  10000
+Test ACC :  0.8757
+Top 5 ACC :  0.9942
+*******************************
+epoch :  56
+iteration :  50
+loss :  0.029118898417800666
+Correct :  6264
+Num :  6400
+Train ACC :  0.97875
+*******************************
+epoch :  56
+iteration :  100
+loss :  0.028368167076259852
+Correct :  6269
+Num :  6400
+Train ACC :  0.97953125
+*******************************
+epoch :  56
+iteration :  150
+loss :  0.035543160196393725
+Correct :  6232
+Num :  6400
+Train ACC :  0.97375
+*******************************
+epoch :  56
+iteration :  200
+loss :  0.03327135916799307
+Correct :  6258
+Num :  6400
+Train ACC :  0.9778125
+*******************************
+epoch :  56
+iteration :  250
+loss :  0.03679362183436751
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+*******************************
+epoch :  56
+iteration :  300
+loss :  0.028178093880414964
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+*******************************
+epoch :  56
+iteration :  350
+loss :  0.029528426472097635
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+Test Model
+Correct :  8898
+Num :  10000
+Test ACC :  0.8898
+Top 5 ACC :  0.9962
+*******************************
+epoch :  57
+iteration :  50
+loss :  0.021967252446338535
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  57
+iteration :  100
+loss :  0.030791457444429397
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+*******************************
+epoch :  57
+iteration :  150
+loss :  0.028063999582082035
+Correct :  6271
+Num :  6400
+Train ACC :  0.97984375
+*******************************
+epoch :  57
+iteration :  200
+loss :  0.027488416265696286
+Correct :  6268
+Num :  6400
+Train ACC :  0.979375
+*******************************
+epoch :  57
+iteration :  250
+loss :  0.026355162728577852
+Correct :  6268
+Num :  6400
+Train ACC :  0.979375
+*******************************
+epoch :  57
+iteration :  300
+loss :  0.02882731031626463
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  57
+iteration :  350
+loss :  0.032369193620979786
+Correct :  6258
+Num :  6400
+Train ACC :  0.9778125
+Test Model
+Correct :  8900
+Num :  10000
+Test ACC :  0.89
+Top 5 ACC :  0.9946
+*******************************
+epoch :  58
+iteration :  50
+loss :  0.024160007517784833
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  58
+iteration :  100
+loss :  0.03218804394826293
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  58
+iteration :  150
+loss :  0.030307738799601792
+Correct :  6263
+Num :  6400
+Train ACC :  0.97859375
+*******************************
+epoch :  58
+iteration :  200
+loss :  0.031464882204309104
+Correct :  6256
+Num :  6400
+Train ACC :  0.9775
+*******************************
+epoch :  58
+iteration :  250
+loss :  0.030900069009512664
+Correct :  6267
+Num :  6400
+Train ACC :  0.97921875
+*******************************
+epoch :  58
+iteration :  300
+loss :  0.03208319164812565
+Correct :  6250
+Num :  6400
+Train ACC :  0.9765625
+*******************************
+epoch :  58
+iteration :  350
+loss :  0.039741653222590684
+Correct :  6228
+Num :  6400
+Train ACC :  0.973125
+Test Model
+Correct :  8813
+Num :  10000
+Test ACC :  0.8813
+Top 5 ACC :  0.9951
+*******************************
+epoch :  59
+iteration :  50
+loss :  0.030252880780026317
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  59
+iteration :  100
+loss :  0.033623387068510056
+Correct :  6262
+Num :  6400
+Train ACC :  0.9784375
+*******************************
+epoch :  59
+iteration :  150
+loss :  0.032744906172156335
+Correct :  6246
+Num :  6400
+Train ACC :  0.9759375
+*******************************
+epoch :  59
+iteration :  200
+loss :  0.031358523201197384
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  59
+iteration :  250
+loss :  0.033607878666371105
+Correct :  6246
+Num :  6400
+Train ACC :  0.9759375
+*******************************
+epoch :  59
+iteration :  300
+loss :  0.03094682177528739
+Correct :  6257
+Num :  6400
+Train ACC :  0.97765625
+*******************************
+epoch :  59
+iteration :  350
+loss :  0.03610560541972518
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+Test Model
+Correct :  8818
+Num :  10000
+Test ACC :  0.8818
+Top 5 ACC :  0.9951
+*******************************
+epoch :  60
+iteration :  50
+loss :  0.029657907579094173
+Correct :  6264
+Num :  6400
+Train ACC :  0.97875
+*******************************
+epoch :  60
+iteration :  100
+loss :  0.03445410706102848
+Correct :  6249
+Num :  6400
+Train ACC :  0.97640625
+*******************************
+epoch :  60
+iteration :  150
+loss :  0.03179388552904129
+Correct :  6261
+Num :  6400
+Train ACC :  0.97828125
+*******************************
+epoch :  60
+iteration :  200
+loss :  0.03711634367704392
+Correct :  6225
+Num :  6400
+Train ACC :  0.97265625
+*******************************
+epoch :  60
+iteration :  250
+loss :  0.032700114846229554
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+*******************************
+epoch :  60
+iteration :  300
+loss :  0.035250805746763945
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+*******************************
+epoch :  60
+iteration :  350
+loss :  0.028365102224051954
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+Test Model
+Correct :  8816
+Num :  10000
+Test ACC :  0.8816
+Top 5 ACC :  0.9955
+*******************************
+epoch :  61
+iteration :  50
+loss :  0.03398670855909586
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  61
+iteration :  100
+loss :  0.03200516577810049
+Correct :  6251
+Num :  6400
+Train ACC :  0.97671875
+*******************************
+epoch :  61
+iteration :  150
+loss :  0.03150874000042677
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+*******************************
+epoch :  61
+iteration :  200
+loss :  0.033096099384129045
+Correct :  6258
+Num :  6400
+Train ACC :  0.9778125
+*******************************
+epoch :  61
+iteration :  250
+loss :  0.03238641481846571
+Correct :  6260
+Num :  6400
+Train ACC :  0.978125
+*******************************
+epoch :  61
+iteration :  300
+loss :  0.03537749016657472
+Correct :  6233
+Num :  6400
+Train ACC :  0.97390625
+*******************************
+epoch :  61
+iteration :  350
+loss :  0.04109658190980554
+Correct :  6208
+Num :  6400
+Train ACC :  0.97
+Test Model
+Correct :  8808
+Num :  10000
+Test ACC :  0.8808
+Top 5 ACC :  0.9961
+*******************************
+epoch :  62
+iteration :  50
+loss :  0.029262699000537396
+Correct :  6272
+Num :  6400
+Train ACC :  0.98
+*******************************
+epoch :  62
+iteration :  100
+loss :  0.03457507809624076
+Correct :  6244
+Num :  6400
+Train ACC :  0.975625
+*******************************
+epoch :  62
+iteration :  150
+loss :  0.03261527217924595
+Correct :  6263
+Num :  6400
+Train ACC :  0.97859375
+*******************************
+epoch :  62
+iteration :  200
+loss :  0.029664700906723736
+Correct :  6265
+Num :  6400
+Train ACC :  0.97890625
+*******************************
+epoch :  62
+iteration :  250
+loss :  0.03669265979900956
+Correct :  6232
+Num :  6400
+Train ACC :  0.97375
+*******************************
+epoch :  62
+iteration :  300
+loss :  0.04196469880640507
+Correct :  6214
+Num :  6400
+Train ACC :  0.9709375
+*******************************
+epoch :  62
+iteration :  350
+loss :  0.040207839105278254
+Correct :  6219
+Num :  6400
+Train ACC :  0.97171875
+Test Model
+Correct :  8892
+Num :  10000
+Test ACC :  0.8892
+Top 5 ACC :  0.9942
+*******************************
+epoch :  63
+iteration :  50
+loss :  0.030046460945159198
+Correct :  6271
+Num :  6400
+Train ACC :  0.97984375
+*******************************
+epoch :  63
+iteration :  100
+loss :  0.036489322651177644
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  63
+iteration :  150
+loss :  0.04394418943673372
+Correct :  6213
+Num :  6400
+Train ACC :  0.97078125
+*******************************
+epoch :  63
+iteration :  200
+loss :  0.042950576618313786
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+*******************************
+epoch :  63
+iteration :  250
+loss :  0.039005278088152406
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+*******************************
+epoch :  63
+iteration :  300
+loss :  0.03999636167660356
+Correct :  6221
+Num :  6400
+Train ACC :  0.97203125
+*******************************
+epoch :  63
+iteration :  350
+loss :  0.04042324513196945
+Correct :  6223
+Num :  6400
+Train ACC :  0.97234375
+Test Model
+Correct :  8782
+Num :  10000
+Test ACC :  0.8782
+Top 5 ACC :  0.9952
+*******************************
+epoch :  64
+iteration :  50
+loss :  0.03268558092415333
+Correct :  6247
+Num :  6400
+Train ACC :  0.97609375
+*******************************
+epoch :  64
+iteration :  100
+loss :  0.04214491978287697
+Correct :  6218
+Num :  6400
+Train ACC :  0.9715625
+*******************************
+epoch :  64
+iteration :  150
+loss :  0.03664844891056419
+Correct :  6242
+Num :  6400
+Train ACC :  0.9753125
+*******************************
+epoch :  64
+iteration :  200
+loss :  0.034969299454241994
+Correct :  6248
+Num :  6400
+Train ACC :  0.97625
+*******************************
+epoch :  64
+iteration :  250
+loss :  0.04395467603579164
+Correct :  6189
+Num :  6400
+Train ACC :  0.96703125
+*******************************
+epoch :  64
+iteration :  300
+loss :  0.042427548933774234
+Correct :  6224
+Num :  6400
+Train ACC :  0.9725
+*******************************
+epoch :  64
+iteration :  350
+loss :  0.04019144596531987
+Correct :  6230
+Num :  6400
+Train ACC :  0.9734375
+Test Model
+Correct :  8841
+Num :  10000
+Test ACC :  0.8841
+Top 5 ACC :  0.9947
+*******************************
+epoch :  65
+iteration :  50
+loss :  0.028722237832844257
+Correct :  6266
+Num :  6400
+Train ACC :  0.9790625
+*******************************
+epoch :  65
+iteration :  100
+loss :  0.03736335625872016
+Correct :  6228
+Num :  6400
+Train ACC :  0.973125
+*******************************
+epoch :  65
+iteration :  150
+loss :  0.03743884235620499
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  65
+iteration :  200
+loss :  0.03306469827890396
+Correct :  6253
+Num :  6400
+Train ACC :  0.97703125
+*******************************
+epoch :  65
+iteration :  250
+loss :  0.03769242767244577
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  65
+iteration :  300
+loss :  0.040646990202367304
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+*******************************
+epoch :  65
+iteration :  350
+loss :  0.04531385401263833
+Correct :  6205
+Num :  6400
+Train ACC :  0.96953125
+Test Model
+Correct :  8843
+Num :  10000
+Test ACC :  0.8843
+Top 5 ACC :  0.995
+*******************************
+epoch :  66
+iteration :  50
+loss :  0.03873919377103448
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  66
+iteration :  100
+loss :  0.034508732035756114
+Correct :  6240
+Num :  6400
+Train ACC :  0.975
+*******************************
+epoch :  66
+iteration :  150
+loss :  0.045757432635873556
+Correct :  6196
+Num :  6400
+Train ACC :  0.968125
+*******************************
+epoch :  66
+iteration :  200
+loss :  0.03322286063805222
+Correct :  6254
+Num :  6400
+Train ACC :  0.9771875
+*******************************
+epoch :  66
+iteration :  250
+loss :  0.044723418895155194
+Correct :  6203
+Num :  6400
+Train ACC :  0.96921875
+*******************************
+epoch :  66
+iteration :  300
+loss :  0.039218853805214164
+Correct :  6228
+Num :  6400
+Train ACC :  0.973125
+*******************************
+epoch :  66
+iteration :  350
+loss :  0.03516139118000865
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+Test Model
+Correct :  8764
+Num :  10000
+Test ACC :  0.8764
+Top 5 ACC :  0.9944
+*******************************
+epoch :  67
+iteration :  50
+loss :  0.039395020753145216
+Correct :  6220
+Num :  6400
+Train ACC :  0.971875
+*******************************
+epoch :  67
+iteration :  100
+loss :  0.038977954089641574
+Correct :  6223
+Num :  6400
+Train ACC :  0.97234375
+*******************************
+epoch :  67
+iteration :  150
+loss :  0.04719261517748237
+Correct :  6180
+Num :  6400
+Train ACC :  0.965625
+*******************************
+epoch :  67
+iteration :  200
+loss :  0.045664364509284495
+Correct :  6198
+Num :  6400
+Train ACC :  0.9684375
+*******************************
+epoch :  67
+iteration :  250
+loss :  0.03398916127160192
+Correct :  6261
+Num :  6400
+Train ACC :  0.97828125
+*******************************
+epoch :  67
+iteration :  300
+loss :  0.04438263162970543
+Correct :  6203
+Num :  6400
+Train ACC :  0.96921875
+*******************************
+epoch :  67
+iteration :  350
+loss :  0.04010628534480929
+Correct :  6217
+Num :  6400
+Train ACC :  0.97140625
+Test Model
+Correct :  8790
+Num :  10000
+Test ACC :  0.879
+Top 5 ACC :  0.9945
+*******************************
+epoch :  68
+iteration :  50
+loss :  0.03337375602684915
+Correct :  6249
+Num :  6400
+Train ACC :  0.97640625
+*******************************
+epoch :  68
+iteration :  100
+loss :  0.04098958805203438
+Correct :  6234
+Num :  6400
+Train ACC :  0.9740625
+*******************************
+epoch :  68
+iteration :  150
+loss :  0.04079432051628828
+Correct :  6220
+Num :  6400
+Train ACC :  0.971875
+*******************************
+epoch :  68
+iteration :  200
+loss :  0.04398608209565282
+Correct :  6219
+Num :  6400
+Train ACC :  0.97171875
+*******************************
+epoch :  68
+iteration :  250
+loss :  0.03885720556601882
+Correct :  6224
+Num :  6400
+Train ACC :  0.9725
+*******************************
+epoch :  68
+iteration :  300
+loss :  0.04490646757185459
+Correct :  6219
+Num :  6400
+Train ACC :  0.97171875
+*******************************
+epoch :  68
+iteration :  350
+loss :  0.0426451164111495
+Correct :  6208
+Num :  6400
+Train ACC :  0.97
+Test Model
+Correct :  8857
+Num :  10000
+Test ACC :  0.8857
+Top 5 ACC :  0.9953
+*******************************
+epoch :  69
+iteration :  50
+loss :  0.03454470621421933
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+*******************************
+epoch :  69
+iteration :  100
+loss :  0.03918002380058169
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+*******************************
+epoch :  69
+iteration :  150
+loss :  0.0389890212751925
+Correct :  6213
+Num :  6400
+Train ACC :  0.97078125
+*******************************
+epoch :  69
+iteration :  200
+loss :  0.044742539916187526
+Correct :  6205
+Num :  6400
+Train ACC :  0.96953125
+*******************************
+epoch :  69
+iteration :  250
+loss :  0.046308226212859155
+Correct :  6179
+Num :  6400
+Train ACC :  0.96546875
+*******************************
+epoch :  69
+iteration :  300
+loss :  0.03780952742323279
+Correct :  6226
+Num :  6400
+Train ACC :  0.9728125
+*******************************
+epoch :  69
+iteration :  350
+loss :  0.04707074224948883
+Correct :  6183
+Num :  6400
+Train ACC :  0.96609375
+Test Model
+Correct :  8830
+Num :  10000
+Test ACC :  0.883
+Top 5 ACC :  0.9948
+*******************************
+epoch :  70
+iteration :  50
+loss :  0.04007585309445858
+Correct :  6218
+Num :  6400
+Train ACC :  0.9715625
+*******************************
+epoch :  70
+iteration :  100
+loss :  0.03791060263291001
+Correct :  6232
+Num :  6400
+Train ACC :  0.97375
+*******************************
+epoch :  70
+iteration :  150
+loss :  0.041602046545594934
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+*******************************
+epoch :  70
+iteration :  200
+loss :  0.049037502761930224
+Correct :  6184
+Num :  6400
+Train ACC :  0.96625
+*******************************
+epoch :  70
+iteration :  250
+loss :  0.04013538841158151
+Correct :  6220
+Num :  6400
+Train ACC :  0.971875
+*******************************
+epoch :  70
+iteration :  300
+loss :  0.040193693358451126
+Correct :  6222
+Num :  6400
+Train ACC :  0.9721875
+*******************************
+epoch :  70
+iteration :  350
+loss :  0.04976439794525504
+Correct :  6185
+Num :  6400
+Train ACC :  0.96640625
+Test Model
+Correct :  8776
+Num :  10000
+Test ACC :  0.8776
+Top 5 ACC :  0.9951
+*******************************
+epoch :  71
+iteration :  50
+loss :  0.03194139879196882
+Correct :  6249
+Num :  6400
+Train ACC :  0.97640625
+*******************************
+epoch :  71
+iteration :  100
+loss :  0.037604967802762984
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+*******************************
+epoch :  71
+iteration :  150
+loss :  0.040513794589787724
+Correct :  6202
+Num :  6400
+Train ACC :  0.9690625
+*******************************
+epoch :  71
+iteration :  200
+loss :  0.04148626348003745
+Correct :  6209
+Num :  6400
+Train ACC :  0.97015625
+*******************************
+epoch :  71
+iteration :  250
+loss :  0.047758974097669125
+Correct :  6192
+Num :  6400
+Train ACC :  0.9675
+*******************************
+epoch :  71
+iteration :  300
+loss :  0.04527522129938007
+Correct :  6206
+Num :  6400
+Train ACC :  0.9696875
+*******************************
+epoch :  71
+iteration :  350
+loss :  0.04426498739048838
+Correct :  6202
+Num :  6400
+Train ACC :  0.9690625
+Test Model
+Correct :  8712
+Num :  10000
+Test ACC :  0.8712
+Top 5 ACC :  0.9946
+*******************************
+epoch :  72
+iteration :  50
+loss :  0.0389266003575176
+Correct :  6225
+Num :  6400
+Train ACC :  0.97265625
+*******************************
+epoch :  72
+iteration :  100
+loss :  0.045973525196313855
+Correct :  6192
+Num :  6400
+Train ACC :  0.9675
+*******************************
+epoch :  72
+iteration :  150
+loss :  0.04086370423436165
+Correct :  6214
+Num :  6400
+Train ACC :  0.9709375
+*******************************
+epoch :  72
+iteration :  200
+loss :  0.04499019160866737
+Correct :  6198
+Num :  6400
+Train ACC :  0.9684375
+*******************************
+epoch :  72
+iteration :  250
+loss :  0.03984924089163542
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  72
+iteration :  300
+loss :  0.0419522943533957
+Correct :  6224
+Num :  6400
+Train ACC :  0.9725
+*******************************
+epoch :  72
+iteration :  350
+loss :  0.049714316073805095
+Correct :  6182
+Num :  6400
+Train ACC :  0.9659375
+Test Model
+Correct :  8797
+Num :  10000
+Test ACC :  0.8797
+Top 5 ACC :  0.9946
+*******************************
+epoch :  73
+iteration :  50
+loss :  0.03858713641762734
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+*******************************
+epoch :  73
+iteration :  100
+loss :  0.03836859084665775
+Correct :  6240
+Num :  6400
+Train ACC :  0.975
+*******************************
+epoch :  73
+iteration :  150
+loss :  0.04438267009332776
+Correct :  6198
+Num :  6400
+Train ACC :  0.9684375
+*******************************
+epoch :  73
+iteration :  200
+loss :  0.03823068700730801
+Correct :  6234
+Num :  6400
+Train ACC :  0.9740625
+*******************************
+epoch :  73
+iteration :  250
+loss :  0.04683114444836974
+Correct :  6189
+Num :  6400
+Train ACC :  0.96703125
+*******************************
+epoch :  73
+iteration :  300
+loss :  0.03699337469413876
+Correct :  6244
+Num :  6400
+Train ACC :  0.975625
+*******************************
+epoch :  73
+iteration :  350
+loss :  0.04582637930288911
+Correct :  6189
+Num :  6400
+Train ACC :  0.96703125
+Test Model
+Correct :  8792
+Num :  10000
+Test ACC :  0.8792
+Top 5 ACC :  0.9953
+*******************************
+epoch :  74
+iteration :  50
+loss :  0.03677239622920751
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+*******************************
+epoch :  74
+iteration :  100
+loss :  0.03370203034952283
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+*******************************
+epoch :  74
+iteration :  150
+loss :  0.04054365845397115
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  74
+iteration :  200
+loss :  0.03905240204185247
+Correct :  6223
+Num :  6400
+Train ACC :  0.97234375
+*******************************
+epoch :  74
+iteration :  250
+loss :  0.04194305459037423
+Correct :  6217
+Num :  6400
+Train ACC :  0.97140625
+*******************************
+epoch :  74
+iteration :  300
+loss :  0.04297030659392476
+Correct :  6199
+Num :  6400
+Train ACC :  0.96859375
+*******************************
+epoch :  74
+iteration :  350
+loss :  0.047322020251303915
+Correct :  6187
+Num :  6400
+Train ACC :  0.96671875
+Test Model
+Correct :  8829
+Num :  10000
+Test ACC :  0.8829
+Top 5 ACC :  0.9948
+*******************************
+epoch :  75
+iteration :  50
+loss :  0.035715747904032466
+Correct :  6247
+Num :  6400
+Train ACC :  0.97609375
+*******************************
+epoch :  75
+iteration :  100
+loss :  0.03485575365833938
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  75
+iteration :  150
+loss :  0.04297022657468915
+Correct :  6219
+Num :  6400
+Train ACC :  0.97171875
+*******************************
+epoch :  75
+iteration :  200
+loss :  0.04625389425083995
+Correct :  6199
+Num :  6400
+Train ACC :  0.96859375
+*******************************
+epoch :  75
+iteration :  250
+loss :  0.04675428045913577
+Correct :  6189
+Num :  6400
+Train ACC :  0.96703125
+*******************************
+epoch :  75
+iteration :  300
+loss :  0.04785524420440197
+Correct :  6181
+Num :  6400
+Train ACC :  0.96578125
+*******************************
+epoch :  75
+iteration :  350
+loss :  0.04290359349921346
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+Test Model
+Correct :  8847
+Num :  10000
+Test ACC :  0.8847
+Top 5 ACC :  0.9946
+*******************************
+epoch :  76
+iteration :  50
+loss :  0.03342805556952953
+Correct :  6258
+Num :  6400
+Train ACC :  0.9778125
+*******************************
+epoch :  76
+iteration :  100
+loss :  0.03634484267793596
+Correct :  6230
+Num :  6400
+Train ACC :  0.9734375
+*******************************
+epoch :  76
+iteration :  150
+loss :  0.04263275941833854
+Correct :  6211
+Num :  6400
+Train ACC :  0.97046875
+*******************************
+epoch :  76
+iteration :  200
+loss :  0.051305660251528024
+Correct :  6183
+Num :  6400
+Train ACC :  0.96609375
+*******************************
+epoch :  76
+iteration :  250
+loss :  0.04337569875642657
+Correct :  6207
+Num :  6400
+Train ACC :  0.96984375
+*******************************
+epoch :  76
+iteration :  300
+loss :  0.043763987571001056
+Correct :  6220
+Num :  6400
+Train ACC :  0.971875
+*******************************
+epoch :  76
+iteration :  350
+loss :  0.046058105900883675
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+Test Model
+Correct :  8801
+Num :  10000
+Test ACC :  0.8801
+Top 5 ACC :  0.9955
+*******************************
+epoch :  77
+iteration :  50
+loss :  0.04094270020723343
+Correct :  6218
+Num :  6400
+Train ACC :  0.9715625
+*******************************
+epoch :  77
+iteration :  100
+loss :  0.04462498645298183
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+*******************************
+epoch :  77
+iteration :  150
+loss :  0.041651798021048306
+Correct :  6220
+Num :  6400
+Train ACC :  0.971875
+*******************************
+epoch :  77
+iteration :  200
+loss :  0.03972368266433477
+Correct :  6225
+Num :  6400
+Train ACC :  0.97265625
+*******************************
+epoch :  77
+iteration :  250
+loss :  0.050794159974902865
+Correct :  6184
+Num :  6400
+Train ACC :  0.96625
+*******************************
+epoch :  77
+iteration :  300
+loss :  0.044610422588884834
+Correct :  6197
+Num :  6400
+Train ACC :  0.96828125
+*******************************
+epoch :  77
+iteration :  350
+loss :  0.03990114500746131
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+Test Model
+Correct :  8743
+Num :  10000
+Test ACC :  0.8743
+Top 5 ACC :  0.9932
+*******************************
+epoch :  78
+iteration :  50
+loss :  0.03726221216842532
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+*******************************
+epoch :  78
+iteration :  100
+loss :  0.03494453378021717
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  78
+iteration :  150
+loss :  0.040379543900489805
+Correct :  6217
+Num :  6400
+Train ACC :  0.97140625
+*******************************
+epoch :  78
+iteration :  200
+loss :  0.037207999639213084
+Correct :  6238
+Num :  6400
+Train ACC :  0.9746875
+*******************************
+epoch :  78
+iteration :  250
+loss :  0.03772169576026499
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+*******************************
+epoch :  78
+iteration :  300
+loss :  0.04466929197311401
+Correct :  6206
+Num :  6400
+Train ACC :  0.9696875
+*******************************
+epoch :  78
+iteration :  350
+loss :  0.0441942504607141
+Correct :  6196
+Num :  6400
+Train ACC :  0.968125
+Test Model
+Correct :  8786
+Num :  10000
+Test ACC :  0.8786
+Top 5 ACC :  0.993
+*******************************
+epoch :  79
+iteration :  50
+loss :  0.03966672297567129
+Correct :  6226
+Num :  6400
+Train ACC :  0.9728125
+*******************************
+epoch :  79
+iteration :  100
+loss :  0.04048238359391689
+Correct :  6222
+Num :  6400
+Train ACC :  0.9721875
+*******************************
+epoch :  79
+iteration :  150
+loss :  0.039504325725138185
+Correct :  6210
+Num :  6400
+Train ACC :  0.9703125
+*******************************
+epoch :  79
+iteration :  200
+loss :  0.04073940819129348
+Correct :  6218
+Num :  6400
+Train ACC :  0.9715625
+*******************************
+epoch :  79
+iteration :  250
+loss :  0.03629931939765811
+Correct :  6235
+Num :  6400
+Train ACC :  0.97421875
+*******************************
+epoch :  79
+iteration :  300
+loss :  0.037208990417420866
+Correct :  6251
+Num :  6400
+Train ACC :  0.97671875
+*******************************
+epoch :  79
+iteration :  350
+loss :  0.037059061080217365
+Correct :  6239
+Num :  6400
+Train ACC :  0.97484375
+Test Model
+Correct :  8730
+Num :  10000
+Test ACC :  0.873
+Top 5 ACC :  0.9948
+*******************************
+epoch :  80
+iteration :  50
+loss :  0.03705622285604477
+Correct :  6238
+Num :  6400
+Train ACC :  0.9746875
+*******************************
+epoch :  80
+iteration :  100
+loss :  0.04274716965854168
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+*******************************
+epoch :  80
+iteration :  150
+loss :  0.037625405564904214
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  80
+iteration :  200
+loss :  0.04055226035416126
+Correct :  6226
+Num :  6400
+Train ACC :  0.9728125
+*******************************
+epoch :  80
+iteration :  250
+loss :  0.037694595400243995
+Correct :  6234
+Num :  6400
+Train ACC :  0.9740625
+*******************************
+epoch :  80
+iteration :  300
+loss :  0.04204463118687272
+Correct :  6202
+Num :  6400
+Train ACC :  0.9690625
+*******************************
+epoch :  80
+iteration :  350
+loss :  0.03601181665435434
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+Test Model
+Correct :  8857
+Num :  10000
+Test ACC :  0.8857
+Top 5 ACC :  0.9938
+*******************************
+epoch :  81
+iteration :  50
+loss :  0.041868092585355045
+Correct :  6213
+Num :  6400
+Train ACC :  0.97078125
+*******************************
+epoch :  81
+iteration :  100
+loss :  0.033338629826903346
+Correct :  6241
+Num :  6400
+Train ACC :  0.97515625
+*******************************
+epoch :  81
+iteration :  150
+loss :  0.04318749785423279
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+*******************************
+epoch :  81
+iteration :  200
+loss :  0.036991405244916675
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+*******************************
+epoch :  81
+iteration :  250
+loss :  0.04321740008890629
+Correct :  6215
+Num :  6400
+Train ACC :  0.97109375
+*******************************
+epoch :  81
+iteration :  300
+loss :  0.04020711459219456
+Correct :  6228
+Num :  6400
+Train ACC :  0.973125
+*******************************
+epoch :  81
+iteration :  350
+loss :  0.039200473483651875
+Correct :  6216
+Num :  6400
+Train ACC :  0.97125
+Test Model
+Correct :  8839
+Num :  10000
+Test ACC :  0.8839
+Top 5 ACC :  0.9934
+*******************************
+epoch :  82
+iteration :  50
+loss :  0.03747901102527976
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  82
+iteration :  100
+loss :  0.03156478391960263
+Correct :  6263
+Num :  6400
+Train ACC :  0.97859375
+*******************************
+epoch :  82
+iteration :  150
+loss :  0.03360870948061347
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  82
+iteration :  200
+loss :  0.03726534029468894
+Correct :  6233
+Num :  6400
+Train ACC :  0.97390625
+*******************************
+epoch :  82
+iteration :  250
+loss :  0.038962749131023884
+Correct :  6235
+Num :  6400
+Train ACC :  0.97421875
+*******************************
+epoch :  82
+iteration :  300
+loss :  0.04331274636089802
+Correct :  6210
+Num :  6400
+Train ACC :  0.9703125
+*******************************
+epoch :  82
+iteration :  350
+loss :  0.03843191497027874
+Correct :  6227
+Num :  6400
+Train ACC :  0.97296875
+Test Model
+Correct :  8785
+Num :  10000
+Test ACC :  0.8785
+Top 5 ACC :  0.9955
+*******************************
+epoch :  83
+iteration :  50
+loss :  0.03749494837597012
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  83
+iteration :  100
+loss :  0.0371147751621902
+Correct :  6238
+Num :  6400
+Train ACC :  0.9746875
+*******************************
+epoch :  83
+iteration :  150
+loss :  0.04457375638186931
+Correct :  6196
+Num :  6400
+Train ACC :  0.968125
+*******************************
+epoch :  83
+iteration :  200
+loss :  0.03938313640654087
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  83
+iteration :  250
+loss :  0.03679168513044715
+Correct :  6235
+Num :  6400
+Train ACC :  0.97421875
+*******************************
+epoch :  83
+iteration :  300
+loss :  0.040847036503255364
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  83
+iteration :  350
+loss :  0.0416756945848465
+Correct :  6209
+Num :  6400
+Train ACC :  0.97015625
+Test Model
+Correct :  8850
+Num :  10000
+Test ACC :  0.885
+Top 5 ACC :  0.9947
+*******************************
+epoch :  84
+iteration :  50
+loss :  0.030557117192074656
+Correct :  6262
+Num :  6400
+Train ACC :  0.9784375
+*******************************
+epoch :  84
+iteration :  100
+loss :  0.037120529152452945
+Correct :  6240
+Num :  6400
+Train ACC :  0.975
+*******************************
+epoch :  84
+iteration :  150
+loss :  0.03150432949885726
+Correct :  6269
+Num :  6400
+Train ACC :  0.97953125
+*******************************
+epoch :  84
+iteration :  200
+loss :  0.029164562989026307
+Correct :  6274
+Num :  6400
+Train ACC :  0.9803125
+*******************************
+epoch :  84
+iteration :  250
+loss :  0.03493212440982461
+Correct :  6247
+Num :  6400
+Train ACC :  0.97609375
+*******************************
+epoch :  84
+iteration :  300
+loss :  0.03862077033147216
+Correct :  6234
+Num :  6400
+Train ACC :  0.9740625
+*******************************
+epoch :  84
+iteration :  350
+loss :  0.03517896609380841
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+Test Model
+Correct :  8844
+Num :  10000
+Test ACC :  0.8844
+Top 5 ACC :  0.9936
+*******************************
+epoch :  85
+iteration :  50
+loss :  0.04161943349987268
+Correct :  6192
+Num :  6400
+Train ACC :  0.9675
+*******************************
+epoch :  85
+iteration :  100
+loss :  0.035006670877337456
+Correct :  6243
+Num :  6400
+Train ACC :  0.97546875
+*******************************
+epoch :  85
+iteration :  150
+loss :  0.035544620752334596
+Correct :  6236
+Num :  6400
+Train ACC :  0.974375
+*******************************
+epoch :  85
+iteration :  200
+loss :  0.04206941755488515
+Correct :  6204
+Num :  6400
+Train ACC :  0.969375
+*******************************
+epoch :  85
+iteration :  250
+loss :  0.03855879975482821
+Correct :  6226
+Num :  6400
+Train ACC :  0.9728125
+*******************************
+epoch :  85
+iteration :  300
+loss :  0.03253534299321473
+Correct :  6244
+Num :  6400
+Train ACC :  0.975625
+*******************************
+epoch :  85
+iteration :  350
+loss :  0.036088613271713255
+Correct :  6236
+Num :  6400
+Train ACC :  0.974375
+Test Model
+Correct :  8774
+Num :  10000
+Test ACC :  0.8774
+Top 5 ACC :  0.9943
+*******************************
+epoch :  86
+iteration :  50
+loss :  0.027478913851082323
+Correct :  6278
+Num :  6400
+Train ACC :  0.9809375
+*******************************
+epoch :  86
+iteration :  100
+loss :  0.02850247997790575
+Correct :  6271
+Num :  6400
+Train ACC :  0.97984375
+*******************************
+epoch :  86
+iteration :  150
+loss :  0.027200503405183554
+Correct :  6279
+Num :  6400
+Train ACC :  0.98109375
+*******************************
+epoch :  86
+iteration :  200
+loss :  0.03247491762973368
+Correct :  6257
+Num :  6400
+Train ACC :  0.97765625
+*******************************
+epoch :  86
+iteration :  250
+loss :  0.03509732423350215
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+*******************************
+epoch :  86
+iteration :  300
+loss :  0.03919944882392883
+Correct :  6238
+Num :  6400
+Train ACC :  0.9746875
+*******************************
+epoch :  86
+iteration :  350
+loss :  0.03942026428878307
+Correct :  6225
+Num :  6400
+Train ACC :  0.97265625
+Test Model
+Correct :  8870
+Num :  10000
+Test ACC :  0.887
+Top 5 ACC :  0.9952
+*******************************
+epoch :  87
+iteration :  50
+loss :  0.035838540568947794
+Correct :  6231
+Num :  6400
+Train ACC :  0.97359375
+*******************************
+epoch :  87
+iteration :  100
+loss :  0.0321788199339062
+Correct :  6250
+Num :  6400
+Train ACC :  0.9765625
+*******************************
+epoch :  87
+iteration :  150
+loss :  0.03459168786183
+Correct :  6245
+Num :  6400
+Train ACC :  0.97578125
+*******************************
+epoch :  87
+iteration :  200
+loss :  0.03570408131927252
+Correct :  6249
+Num :  6400
+Train ACC :  0.97640625
+*******************************
+epoch :  87
+iteration :  250
+loss :  0.03565057456493378
+Correct :  6230
+Num :  6400
+Train ACC :  0.9734375
+*******************************
+epoch :  87
+iteration :  300
+loss :  0.036819356232881545
+Correct :  6237
+Num :  6400
+Train ACC :  0.97453125
+*******************************
+epoch :  87
+iteration :  350
+loss :  0.03334195114672184
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+Test Model
+Correct :  8882
+Num :  10000
+Test ACC :  0.8882
+Top 5 ACC :  0.9952
+*******************************
+epoch :  88
+iteration :  50
+loss :  0.026964632393792272
+Correct :  6295
+Num :  6400
+Train ACC :  0.98359375
+*******************************
+epoch :  88
+iteration :  100
+loss :  0.02785731996409595
+Correct :  6272
+Num :  6400
+Train ACC :  0.98
+*******************************
+epoch :  88
+iteration :  150
+loss :  0.027319208132103086
+Correct :  6277
+Num :  6400
+Train ACC :  0.98078125
+*******************************
+epoch :  88
+iteration :  200
+loss :  0.03332060947082937
+Correct :  6248
+Num :  6400
+Train ACC :  0.97625
+*******************************
+epoch :  88
+iteration :  250
+loss :  0.04018683971837163
+Correct :  6212
+Num :  6400
+Train ACC :  0.970625
+*******************************
+epoch :  88
+iteration :  300
+loss :  0.036160962972790006
+Correct :  6242
+Num :  6400
+Train ACC :  0.9753125
+*******************************
+epoch :  88
+iteration :  350
+loss :  0.031986458105966446
+Correct :  6251
+Num :  6400
+Train ACC :  0.97671875
+Test Model
+Correct :  8815
+Num :  10000
+Test ACC :  0.8815
+Top 5 ACC :  0.9949
+*******************************
+epoch :  89
+iteration :  50
+loss :  0.023576680179685353
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  89
+iteration :  100
+loss :  0.029707345105707647
+Correct :  6263
+Num :  6400
+Train ACC :  0.97859375
+*******************************
+epoch :  89
+iteration :  150
+loss :  0.027820365484803915
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  89
+iteration :  200
+loss :  0.027175795305520296
+Correct :  6279
+Num :  6400
+Train ACC :  0.98109375
+*******************************
+epoch :  89
+iteration :  250
+loss :  0.031083058761432768
+Correct :  6279
+Num :  6400
+Train ACC :  0.98109375
+*******************************
+epoch :  89
+iteration :  300
+loss :  0.03495516975410282
+Correct :  6242
+Num :  6400
+Train ACC :  0.9753125
+*******************************
+epoch :  89
+iteration :  350
+loss :  0.036428303681313993
+Correct :  6242
+Num :  6400
+Train ACC :  0.9753125
+Test Model
+Correct :  8875
+Num :  10000
+Test ACC :  0.8875
+Top 5 ACC :  0.9949
+*******************************
+epoch :  90
+iteration :  50
+loss :  0.026248317593708635
+Correct :  6289
+Num :  6400
+Train ACC :  0.98265625
+*******************************
+epoch :  90
+iteration :  100
+loss :  0.027473334027454256
+Correct :  6278
+Num :  6400
+Train ACC :  0.9809375
+*******************************
+epoch :  90
+iteration :  150
+loss :  0.027085285214707256
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+*******************************
+epoch :  90
+iteration :  200
+loss :  0.02884577604010701
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+*******************************
+epoch :  90
+iteration :  250
+loss :  0.027799758706241847
+Correct :  6266
+Num :  6400
+Train ACC :  0.9790625
+*******************************
+epoch :  90
+iteration :  300
+loss :  0.028564330572262406
+Correct :  6281
+Num :  6400
+Train ACC :  0.98140625
+*******************************
+epoch :  90
+iteration :  350
+loss :  0.032721888031810524
+Correct :  6260
+Num :  6400
+Train ACC :  0.978125
+Test Model
+Correct :  8886
+Num :  10000
+Test ACC :  0.8886
+Top 5 ACC :  0.9952
+*******************************
+epoch :  91
+iteration :  50
+loss :  0.029343943446874618
+Correct :  6270
+Num :  6400
+Train ACC :  0.9796875
+*******************************
+epoch :  91
+iteration :  100
+loss :  0.027196999518200756
+Correct :  6268
+Num :  6400
+Train ACC :  0.979375
+*******************************
+epoch :  91
+iteration :  150
+loss :  0.03178801463916898
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  91
+iteration :  200
+loss :  0.03323101493529976
+Correct :  6254
+Num :  6400
+Train ACC :  0.9771875
+*******************************
+epoch :  91
+iteration :  250
+loss :  0.0257306220382452
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+*******************************
+epoch :  91
+iteration :  300
+loss :  0.029938290240243078
+Correct :  6271
+Num :  6400
+Train ACC :  0.97984375
+*******************************
+epoch :  91
+iteration :  350
+loss :  0.033135382514446976
+Correct :  6255
+Num :  6400
+Train ACC :  0.97734375
+Test Model
+Correct :  8861
+Num :  10000
+Test ACC :  0.8861
+Top 5 ACC :  0.9949
+*******************************
+epoch :  92
+iteration :  50
+loss :  0.025648216772824525
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  92
+iteration :  100
+loss :  0.02799946620129049
+Correct :  6280
+Num :  6400
+Train ACC :  0.98125
+*******************************
+epoch :  92
+iteration :  150
+loss :  0.02178422871977091
+Correct :  6301
+Num :  6400
+Train ACC :  0.98453125
+*******************************
+epoch :  92
+iteration :  200
+loss :  0.02749867707490921
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  92
+iteration :  250
+loss :  0.034871109575033185
+Correct :  6234
+Num :  6400
+Train ACC :  0.9740625
+*******************************
+epoch :  92
+iteration :  300
+loss :  0.03134893495589495
+Correct :  6246
+Num :  6400
+Train ACC :  0.9759375
+*******************************
+epoch :  92
+iteration :  350
+loss :  0.027495653526857497
+Correct :  6278
+Num :  6400
+Train ACC :  0.9809375
+Test Model
+Correct :  8878
+Num :  10000
+Test ACC :  0.8878
+Top 5 ACC :  0.9947
+*******************************
+epoch :  93
+iteration :  50
+loss :  0.026781996004283427
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+*******************************
+epoch :  93
+iteration :  100
+loss :  0.027809484926983714
+Correct :  6284
+Num :  6400
+Train ACC :  0.981875
+*******************************
+epoch :  93
+iteration :  150
+loss :  0.02572503186762333
+Correct :  6292
+Num :  6400
+Train ACC :  0.983125
+*******************************
+epoch :  93
+iteration :  200
+loss :  0.03162501398473978
+Correct :  6266
+Num :  6400
+Train ACC :  0.9790625
+*******************************
+epoch :  93
+iteration :  250
+loss :  0.025934529891237616
+Correct :  6280
+Num :  6400
+Train ACC :  0.98125
+*******************************
+epoch :  93
+iteration :  300
+loss :  0.030551693756133317
+Correct :  6250
+Num :  6400
+Train ACC :  0.9765625
+*******************************
+epoch :  93
+iteration :  350
+loss :  0.03024057649075985
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+Test Model
+Correct :  8873
+Num :  10000
+Test ACC :  0.8873
+Top 5 ACC :  0.9944
+*******************************
+epoch :  94
+iteration :  50
+loss :  0.02102035965770483
+Correct :  6317
+Num :  6400
+Train ACC :  0.98703125
+*******************************
+epoch :  94
+iteration :  100
+loss :  0.02530817669816315
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  94
+iteration :  150
+loss :  0.021241683177649975
+Correct :  6310
+Num :  6400
+Train ACC :  0.9859375
+*******************************
+epoch :  94
+iteration :  200
+loss :  0.025158467087894678
+Correct :  6291
+Num :  6400
+Train ACC :  0.98296875
+*******************************
+epoch :  94
+iteration :  250
+loss :  0.025344467246904968
+Correct :  6306
+Num :  6400
+Train ACC :  0.9853125
+*******************************
+epoch :  94
+iteration :  300
+loss :  0.027257587220519783
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  94
+iteration :  350
+loss :  0.026193898757919668
+Correct :  6267
+Num :  6400
+Train ACC :  0.97921875
+Test Model
+Correct :  8905
+Num :  10000
+Test ACC :  0.8905
+Top 5 ACC :  0.9955
+*******************************
+epoch :  95
+iteration :  50
+loss :  0.02423609038814902
+Correct :  6294
+Num :  6400
+Train ACC :  0.9834375
+*******************************
+epoch :  95
+iteration :  100
+loss :  0.02784795788116753
+Correct :  6282
+Num :  6400
+Train ACC :  0.9815625
+*******************************
+epoch :  95
+iteration :  150
+loss :  0.02032340068370104
+Correct :  6310
+Num :  6400
+Train ACC :  0.9859375
+*******************************
+epoch :  95
+iteration :  200
+loss :  0.023473642738536
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  95
+iteration :  250
+loss :  0.022939248140901328
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  95
+iteration :  300
+loss :  0.028681849846616387
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+*******************************
+epoch :  95
+iteration :  350
+loss :  0.026751108579337598
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+Test Model
+Correct :  8907
+Num :  10000
+Test ACC :  0.8907
+Top 5 ACC :  0.9957
+*******************************
+epoch :  96
+iteration :  50
+loss :  0.020350618259981273
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+*******************************
+epoch :  96
+iteration :  100
+loss :  0.023758286107331515
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  96
+iteration :  150
+loss :  0.023644357221201062
+Correct :  6291
+Num :  6400
+Train ACC :  0.98296875
+*******************************
+epoch :  96
+iteration :  200
+loss :  0.018194384425878524
+Correct :  6329
+Num :  6400
+Train ACC :  0.98890625
+*******************************
+epoch :  96
+iteration :  250
+loss :  0.02081910681910813
+Correct :  6297
+Num :  6400
+Train ACC :  0.98390625
+*******************************
+epoch :  96
+iteration :  300
+loss :  0.02476202211342752
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  96
+iteration :  350
+loss :  0.027862268816679716
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+Test Model
+Correct :  8860
+Num :  10000
+Test ACC :  0.886
+Top 5 ACC :  0.9943
+*******************************
+epoch :  97
+iteration :  50
+loss :  0.018493520617485045
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  97
+iteration :  100
+loss :  0.020612221201881765
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  97
+iteration :  150
+loss :  0.022824327191337944
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  97
+iteration :  200
+loss :  0.022415833072736858
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+*******************************
+epoch :  97
+iteration :  250
+loss :  0.020316747706383465
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  97
+iteration :  300
+loss :  0.023282848047092557
+Correct :  6295
+Num :  6400
+Train ACC :  0.98359375
+*******************************
+epoch :  97
+iteration :  350
+loss :  0.022778859818354247
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+Test Model
+Correct :  8879
+Num :  10000
+Test ACC :  0.8879
+Top 5 ACC :  0.9951
+*******************************
+epoch :  98
+iteration :  50
+loss :  0.021379175996407866
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  98
+iteration :  100
+loss :  0.019297831831499933
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  98
+iteration :  150
+loss :  0.020644800188019872
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  98
+iteration :  200
+loss :  0.019031458739191293
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  98
+iteration :  250
+loss :  0.018360164584591984
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  98
+iteration :  300
+loss :  0.019150419179350137
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  98
+iteration :  350
+loss :  0.01888331743888557
+Correct :  6315
+Num :  6400
+Train ACC :  0.98671875
+Test Model
+Correct :  8912
+Num :  10000
+Test ACC :  0.8912
+Top 5 ACC :  0.995
+*******************************
+epoch :  99
+iteration :  50
+loss :  0.020697184018790723
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  99
+iteration :  100
+loss :  0.018893085001036525
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  99
+iteration :  150
+loss :  0.018992157960310577
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  99
+iteration :  200
+loss :  0.019444420067593456
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  99
+iteration :  250
+loss :  0.017945282645523548
+Correct :  6323
+Num :  6400
+Train ACC :  0.98796875
+*******************************
+epoch :  99
+iteration :  300
+loss :  0.023795353788882492
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  99
+iteration :  350
+loss :  0.016526624904945494
+Correct :  6320
+Num :  6400
+Train ACC :  0.9875
+Test Model
+Correct :  8887
+Num :  10000
+Test ACC :  0.8887
+Top 5 ACC :  0.995
+*******************************
+epoch :  100
+iteration :  50
+loss :  0.01736336972564459
+Correct :  6326
+Num :  6400
+Train ACC :  0.9884375
+*******************************
+epoch :  100
+iteration :  100
+loss :  0.023902848148718476
+Correct :  6301
+Num :  6400
+Train ACC :  0.98453125
+*******************************
+epoch :  100
+iteration :  150
+loss :  0.016274161729961635
+Correct :  6329
+Num :  6400
+Train ACC :  0.98890625
+*******************************
+epoch :  100
+iteration :  200
+loss :  0.017749568605795504
+Correct :  6322
+Num :  6400
+Train ACC :  0.9878125
+*******************************
+epoch :  100
+iteration :  250
+loss :  0.016877085156738757
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  100
+iteration :  300
+loss :  0.01889821489341557
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  100
+iteration :  350
+loss :  0.018503233157098294
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+Test Model
+Correct :  8930
+Num :  10000
+Test ACC :  0.893
+Top 5 ACC :  0.9953
+*******************************
+epoch :  101
+iteration :  50
+loss :  0.014919847678393126
+Correct :  6334
+Num :  6400
+Train ACC :  0.9896875
+*******************************
+epoch :  101
+iteration :  100
+loss :  0.019110172456130385
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  101
+iteration :  150
+loss :  0.013882940132170916
+Correct :  6338
+Num :  6400
+Train ACC :  0.9903125
+*******************************
+epoch :  101
+iteration :  200
+loss :  0.019545544032007457
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  101
+iteration :  250
+loss :  0.02512450342066586
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+*******************************
+epoch :  101
+iteration :  300
+loss :  0.01728267762809992
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+*******************************
+epoch :  101
+iteration :  350
+loss :  0.016481769243255256
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+Test Model
+Correct :  8947
+Num :  10000
+Test ACC :  0.8947
+Top 5 ACC :  0.9949
+*******************************
+epoch :  102
+iteration :  50
+loss :  0.016877323277294635
+Correct :  6327
+Num :  6400
+Train ACC :  0.98859375
+*******************************
+epoch :  102
+iteration :  100
+loss :  0.016826338972896336
+Correct :  6322
+Num :  6400
+Train ACC :  0.9878125
+*******************************
+epoch :  102
+iteration :  150
+loss :  0.012822699965909123
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  102
+iteration :  200
+loss :  0.01646542925387621
+Correct :  6327
+Num :  6400
+Train ACC :  0.98859375
+*******************************
+epoch :  102
+iteration :  250
+loss :  0.01442554428242147
+Correct :  6338
+Num :  6400
+Train ACC :  0.9903125
+*******************************
+epoch :  102
+iteration :  300
+loss :  0.01959642826579511
+Correct :  6323
+Num :  6400
+Train ACC :  0.98796875
+*******************************
+epoch :  102
+iteration :  350
+loss :  0.017489766906946896
+Correct :  6323
+Num :  6400
+Train ACC :  0.98796875
+Test Model
+Correct :  8959
+Num :  10000
+Test ACC :  0.8959
+Top 5 ACC :  0.9946
+*******************************
+epoch :  103
+iteration :  50
+loss :  0.017006646590307355
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+*******************************
+epoch :  103
+iteration :  100
+loss :  0.014162020739167929
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  103
+iteration :  150
+loss :  0.01178657085634768
+Correct :  6342
+Num :  6400
+Train ACC :  0.9909375
+*******************************
+epoch :  103
+iteration :  200
+loss :  0.014267030842602254
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  103
+iteration :  250
+loss :  0.017025776309892535
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  103
+iteration :  300
+loss :  0.018099981043487787
+Correct :  6322
+Num :  6400
+Train ACC :  0.9878125
+*******************************
+epoch :  103
+iteration :  350
+loss :  0.012955353003926575
+Correct :  6339
+Num :  6400
+Train ACC :  0.99046875
+Test Model
+Correct :  8980
+Num :  10000
+Test ACC :  0.898
+Top 5 ACC :  0.995
+*******************************
+epoch :  104
+iteration :  50
+loss :  0.010046902187168598
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  104
+iteration :  100
+loss :  0.01156161175109446
+Correct :  6351
+Num :  6400
+Train ACC :  0.99234375
+*******************************
+epoch :  104
+iteration :  150
+loss :  0.011841591382399201
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  104
+iteration :  200
+loss :  0.01438849352300167
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  104
+iteration :  250
+loss :  0.01517349500209093
+Correct :  6333
+Num :  6400
+Train ACC :  0.98953125
+*******************************
+epoch :  104
+iteration :  300
+loss :  0.013046410111710429
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  104
+iteration :  350
+loss :  0.017381984451785685
+Correct :  6327
+Num :  6400
+Train ACC :  0.98859375
+Test Model
+Correct :  8906
+Num :  10000
+Test ACC :  0.8906
+Top 5 ACC :  0.9935
+*******************************
+epoch :  105
+iteration :  50
+loss :  0.01638923046179116
+Correct :  6332
+Num :  6400
+Train ACC :  0.989375
+*******************************
+epoch :  105
+iteration :  100
+loss :  0.01322981234639883
+Correct :  6344
+Num :  6400
+Train ACC :  0.99125
+*******************************
+epoch :  105
+iteration :  150
+loss :  0.013299757838249207
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  105
+iteration :  200
+loss :  0.013000820223242044
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  105
+iteration :  250
+loss :  0.011341608688235283
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  105
+iteration :  300
+loss :  0.013293566145002843
+Correct :  6343
+Num :  6400
+Train ACC :  0.99109375
+*******************************
+epoch :  105
+iteration :  350
+loss :  0.012297996813431382
+Correct :  6345
+Num :  6400
+Train ACC :  0.99140625
+Test Model
+Correct :  8955
+Num :  10000
+Test ACC :  0.8955
+Top 5 ACC :  0.9937
+*******************************
+epoch :  106
+iteration :  50
+loss :  0.013052535261958837
+Correct :  6343
+Num :  6400
+Train ACC :  0.99109375
+*******************************
+epoch :  106
+iteration :  100
+loss :  0.01089590698480606
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  106
+iteration :  150
+loss :  0.0127040093857795
+Correct :  6339
+Num :  6400
+Train ACC :  0.99046875
+*******************************
+epoch :  106
+iteration :  200
+loss :  0.013193000508472323
+Correct :  6342
+Num :  6400
+Train ACC :  0.9909375
+*******************************
+epoch :  106
+iteration :  250
+loss :  0.013838585624471307
+Correct :  6338
+Num :  6400
+Train ACC :  0.9903125
+*******************************
+epoch :  106
+iteration :  300
+loss :  0.014988304399885237
+Correct :  6335
+Num :  6400
+Train ACC :  0.98984375
+*******************************
+epoch :  106
+iteration :  350
+loss :  0.014337389459833504
+Correct :  6337
+Num :  6400
+Train ACC :  0.99015625
+Test Model
+Correct :  8955
+Num :  10000
+Test ACC :  0.8955
+Top 5 ACC :  0.9945
+*******************************
+epoch :  107
+iteration :  50
+loss :  0.01047076822258532
+Correct :  6351
+Num :  6400
+Train ACC :  0.99234375
+*******************************
+epoch :  107
+iteration :  100
+loss :  0.008454451505094766
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+*******************************
+epoch :  107
+iteration :  150
+loss :  0.01169390111695975
+Correct :  6351
+Num :  6400
+Train ACC :  0.99234375
+*******************************
+epoch :  107
+iteration :  200
+loss :  0.010511317336931825
+Correct :  6353
+Num :  6400
+Train ACC :  0.99265625
+*******************************
+epoch :  107
+iteration :  250
+loss :  0.010999750616028904
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  107
+iteration :  300
+loss :  0.011386549742892384
+Correct :  6349
+Num :  6400
+Train ACC :  0.99203125
+*******************************
+epoch :  107
+iteration :  350
+loss :  0.011179959280416369
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+Test Model
+Correct :  8972
+Num :  10000
+Test ACC :  0.8972
+Top 5 ACC :  0.996
+*******************************
+epoch :  108
+iteration :  50
+loss :  0.011526118512265385
+Correct :  6346
+Num :  6400
+Train ACC :  0.9915625
+*******************************
+epoch :  108
+iteration :  100
+loss :  0.00819029089063406
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+*******************************
+epoch :  108
+iteration :  150
+loss :  0.010098535511642694
+Correct :  6349
+Num :  6400
+Train ACC :  0.99203125
+*******************************
+epoch :  108
+iteration :  200
+loss :  0.010596006931737066
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  108
+iteration :  250
+loss :  0.009315578397363425
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  108
+iteration :  300
+loss :  0.010151820378378034
+Correct :  6353
+Num :  6400
+Train ACC :  0.99265625
+*******************************
+epoch :  108
+iteration :  350
+loss :  0.010535343121737241
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+Test Model
+Correct :  8954
+Num :  10000
+Test ACC :  0.8954
+Top 5 ACC :  0.9956
+*******************************
+epoch :  109
+iteration :  50
+loss :  0.011360908285714686
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  109
+iteration :  100
+loss :  0.010928174895234406
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  109
+iteration :  150
+loss :  0.00900902196764946
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  109
+iteration :  200
+loss :  0.008505531470291317
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  109
+iteration :  250
+loss :  0.011834766017273068
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+*******************************
+epoch :  109
+iteration :  300
+loss :  0.011940887570381165
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  109
+iteration :  350
+loss :  0.01226582539267838
+Correct :  6342
+Num :  6400
+Train ACC :  0.9909375
+Test Model
+Correct :  8989
+Num :  10000
+Test ACC :  0.8989
+Top 5 ACC :  0.9949
+*******************************
+epoch :  110
+iteration :  50
+loss :  0.008426447589881718
+Correct :  6365
+Num :  6400
+Train ACC :  0.99453125
+*******************************
+epoch :  110
+iteration :  100
+loss :  0.006689444649964571
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  110
+iteration :  150
+loss :  0.008955474491231144
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  110
+iteration :  200
+loss :  0.00710771104786545
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+*******************************
+epoch :  110
+iteration :  250
+loss :  0.009573721177875995
+Correct :  6359
+Num :  6400
+Train ACC :  0.99359375
+*******************************
+epoch :  110
+iteration :  300
+loss :  0.010953030814416707
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+*******************************
+epoch :  110
+iteration :  350
+loss :  0.009015939179807902
+Correct :  6352
+Num :  6400
+Train ACC :  0.9925
+Test Model
+Correct :  8959
+Num :  10000
+Test ACC :  0.8959
+Top 5 ACC :  0.9967
+*******************************
+epoch :  111
+iteration :  50
+loss :  0.009351136684417725
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  111
+iteration :  100
+loss :  0.009049586202017963
+Correct :  6353
+Num :  6400
+Train ACC :  0.99265625
+*******************************
+epoch :  111
+iteration :  150
+loss :  0.009432716416195036
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  111
+iteration :  200
+loss :  0.011010810779407621
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  111
+iteration :  250
+loss :  0.008386164717376233
+Correct :  6362
+Num :  6400
+Train ACC :  0.9940625
+*******************************
+epoch :  111
+iteration :  300
+loss :  0.010670396927744151
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  111
+iteration :  350
+loss :  0.006729815974831581
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+Test Model
+Correct :  8979
+Num :  10000
+Test ACC :  0.8979
+Top 5 ACC :  0.996
+*******************************
+epoch :  112
+iteration :  50
+loss :  0.009013821631669998
+Correct :  6361
+Num :  6400
+Train ACC :  0.99390625
+*******************************
+epoch :  112
+iteration :  100
+loss :  0.007988635450601578
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  112
+iteration :  150
+loss :  0.008883619606494903
+Correct :  6359
+Num :  6400
+Train ACC :  0.99359375
+*******************************
+epoch :  112
+iteration :  200
+loss :  0.008418522216379643
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+*******************************
+epoch :  112
+iteration :  250
+loss :  0.008990033166483044
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  112
+iteration :  300
+loss :  0.008355961898341775
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  112
+iteration :  350
+loss :  0.008951063891872764
+Correct :  6353
+Num :  6400
+Train ACC :  0.99265625
+Test Model
+Correct :  8977
+Num :  10000
+Test ACC :  0.8977
+Top 5 ACC :  0.9948
+*******************************
+epoch :  113
+iteration :  50
+loss :  0.006983788684010506
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  113
+iteration :  100
+loss :  0.007449994189664721
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  113
+iteration :  150
+loss :  0.00686723105609417
+Correct :  6362
+Num :  6400
+Train ACC :  0.9940625
+*******************************
+epoch :  113
+iteration :  200
+loss :  0.006574410190805793
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  113
+iteration :  250
+loss :  0.006931123044341803
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  113
+iteration :  300
+loss :  0.007227207208052278
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  113
+iteration :  350
+loss :  0.009399711047299206
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+Test Model
+Correct :  8945
+Num :  10000
+Test ACC :  0.8945
+Top 5 ACC :  0.9945
+*******************************
+epoch :  114
+iteration :  50
+loss :  0.008765350989997388
+Correct :  6358
+Num :  6400
+Train ACC :  0.9934375
+*******************************
+epoch :  114
+iteration :  100
+loss :  0.008212012322619557
+Correct :  6362
+Num :  6400
+Train ACC :  0.9940625
+*******************************
+epoch :  114
+iteration :  150
+loss :  0.009112518168985844
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  114
+iteration :  200
+loss :  0.0078049204777926205
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  114
+iteration :  250
+loss :  0.007759454818442464
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  114
+iteration :  300
+loss :  0.006605282807722688
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  114
+iteration :  350
+loss :  0.00732724467292428
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+Test Model
+Correct :  8957
+Num :  10000
+Test ACC :  0.8957
+Top 5 ACC :  0.9948
+*******************************
+epoch :  115
+iteration :  50
+loss :  0.009787941006943584
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  115
+iteration :  100
+loss :  0.00665705522056669
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  115
+iteration :  150
+loss :  0.008282650485634804
+Correct :  6362
+Num :  6400
+Train ACC :  0.9940625
+*******************************
+epoch :  115
+iteration :  200
+loss :  0.00553862008266151
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  115
+iteration :  250
+loss :  0.006951972590759397
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+*******************************
+epoch :  115
+iteration :  300
+loss :  0.00596995853818953
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+*******************************
+epoch :  115
+iteration :  350
+loss :  0.006121817943640053
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+Test Model
+Correct :  8972
+Num :  10000
+Test ACC :  0.8972
+Top 5 ACC :  0.9952
+*******************************
+epoch :  116
+iteration :  50
+loss :  0.005274180066771805
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+*******************************
+epoch :  116
+iteration :  100
+loss :  0.00676156890578568
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  116
+iteration :  150
+loss :  0.004282841598615051
+Correct :  6385
+Num :  6400
+Train ACC :  0.99765625
+*******************************
+epoch :  116
+iteration :  200
+loss :  0.00568915069103241
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  116
+iteration :  250
+loss :  0.003983245813287795
+Correct :  6386
+Num :  6400
+Train ACC :  0.9978125
+*******************************
+epoch :  116
+iteration :  300
+loss :  0.005524575249291956
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  116
+iteration :  350
+loss :  0.005693222898989916
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+Test Model
+Correct :  8976
+Num :  10000
+Test ACC :  0.8976
+Top 5 ACC :  0.9949
+*******************************
+epoch :  117
+iteration :  50
+loss :  0.005664403010159731
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  117
+iteration :  100
+loss :  0.004670395916327834
+Correct :  6378
+Num :  6400
+Train ACC :  0.9965625
+*******************************
+epoch :  117
+iteration :  150
+loss :  0.008006958593614399
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  117
+iteration :  200
+loss :  0.008576192408800126
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  117
+iteration :  250
+loss :  0.008992794724181295
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+*******************************
+epoch :  117
+iteration :  300
+loss :  0.00956301337108016
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  117
+iteration :  350
+loss :  0.008339582635089755
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+Test Model
+Correct :  8981
+Num :  10000
+Test ACC :  0.8981
+Top 5 ACC :  0.9946
+*******************************
+epoch :  118
+iteration :  50
+loss :  0.008221818143501878
+Correct :  6365
+Num :  6400
+Train ACC :  0.99453125
+*******************************
+epoch :  118
+iteration :  100
+loss :  0.005765001778490842
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  118
+iteration :  150
+loss :  0.006986437141895294
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  118
+iteration :  200
+loss :  0.004621100495569408
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  118
+iteration :  250
+loss :  0.0060990306828171015
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  118
+iteration :  300
+loss :  0.00786849535536021
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  118
+iteration :  350
+loss :  0.006506643551401794
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+Test Model
+Correct :  9003
+Num :  10000
+Test ACC :  0.9003
+Top 5 ACC :  0.9951
+*******************************
+epoch :  119
+iteration :  50
+loss :  0.004751393175683916
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  119
+iteration :  100
+loss :  0.005181083846837282
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  119
+iteration :  150
+loss :  0.003667599787004292
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  119
+iteration :  200
+loss :  0.004908189107663929
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+*******************************
+epoch :  119
+iteration :  250
+loss :  0.004881505640223622
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  119
+iteration :  300
+loss :  0.006052918704226613
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  119
+iteration :  350
+loss :  0.004747472528833896
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+Test Model
+Correct :  9035
+Num :  10000
+Test ACC :  0.9035
+Top 5 ACC :  0.996
+*******************************
+epoch :  120
+iteration :  50
+loss :  0.005468481886200607
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  120
+iteration :  100
+loss :  0.007204124880954624
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+*******************************
+epoch :  120
+iteration :  150
+loss :  0.009670313885435463
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  120
+iteration :  200
+loss :  0.0052353289583697915
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  120
+iteration :  250
+loss :  0.006153667909093202
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  120
+iteration :  300
+loss :  0.006813777508214116
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  120
+iteration :  350
+loss :  0.006816866751760245
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+Test Model
+Correct :  9020
+Num :  10000
+Test ACC :  0.902
+Top 5 ACC :  0.9952
+*******************************
+epoch :  121
+iteration :  50
+loss :  0.006087430641055107
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  121
+iteration :  100
+loss :  0.005475810137577355
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  121
+iteration :  150
+loss :  0.008146269619464875
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  121
+iteration :  200
+loss :  0.00680804671254009
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  121
+iteration :  250
+loss :  0.006874401355162263
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  121
+iteration :  300
+loss :  0.004738330338150263
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  121
+iteration :  350
+loss :  0.00901058363262564
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+Test Model
+Correct :  9014
+Num :  10000
+Test ACC :  0.9014
+Top 5 ACC :  0.9959
+*******************************
+epoch :  122
+iteration :  50
+loss :  0.005635148249566555
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  122
+iteration :  100
+loss :  0.00422458860091865
+Correct :  6385
+Num :  6400
+Train ACC :  0.99765625
+*******************************
+epoch :  122
+iteration :  150
+loss :  0.005308013404719532
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  122
+iteration :  200
+loss :  0.004958925982937217
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+*******************************
+epoch :  122
+iteration :  250
+loss :  0.006568367555737495
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  122
+iteration :  300
+loss :  0.006432157410308718
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  122
+iteration :  350
+loss :  0.007202857863157988
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+Test Model
+Correct :  9020
+Num :  10000
+Test ACC :  0.902
+Top 5 ACC :  0.995
+*******************************
+epoch :  123
+iteration :  50
+loss :  0.006877807471901178
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  123
+iteration :  100
+loss :  0.005722501971758902
+Correct :  6381
+Num :  6400
+Train ACC :  0.99703125
+*******************************
+epoch :  123
+iteration :  150
+loss :  0.007108284402638674
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  123
+iteration :  200
+loss :  0.006547462744638324
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  123
+iteration :  250
+loss :  0.0054581550927832725
+Correct :  6381
+Num :  6400
+Train ACC :  0.99703125
+*******************************
+epoch :  123
+iteration :  300
+loss :  0.00541932662948966
+Correct :  6381
+Num :  6400
+Train ACC :  0.99703125
+*******************************
+epoch :  123
+iteration :  350
+loss :  0.0073707691952586175
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+Test Model
+Correct :  8981
+Num :  10000
+Test ACC :  0.8981
+Top 5 ACC :  0.9948
+*******************************
+epoch :  124
+iteration :  50
+loss :  0.004075178727507591
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+*******************************
+epoch :  124
+iteration :  100
+loss :  0.0040636800695210695
+Correct :  6382
+Num :  6400
+Train ACC :  0.9971875
+*******************************
+epoch :  124
+iteration :  150
+loss :  0.005207331860437989
+Correct :  6380
+Num :  6400
+Train ACC :  0.996875
+*******************************
+epoch :  124
+iteration :  200
+loss :  0.005353418095037341
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+*******************************
+epoch :  124
+iteration :  250
+loss :  0.006625773403793573
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  124
+iteration :  300
+loss :  0.007869890043511987
+Correct :  6365
+Num :  6400
+Train ACC :  0.99453125
+*******************************
+epoch :  124
+iteration :  350
+loss :  0.0074368794076144695
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+Test Model
+Correct :  9008
+Num :  10000
+Test ACC :  0.9008
+Top 5 ACC :  0.9956
+*******************************
+epoch :  125
+iteration :  50
+loss :  0.010100824246183037
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  125
+iteration :  100
+loss :  0.0068484044913202525
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+*******************************
+epoch :  125
+iteration :  150
+loss :  0.0052046690369024875
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+*******************************
+epoch :  125
+iteration :  200
+loss :  0.005752697084099054
+Correct :  6372
+Num :  6400
+Train ACC :  0.995625
+*******************************
+epoch :  125
+iteration :  250
+loss :  0.006973984017968178
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  125
+iteration :  300
+loss :  0.006659350451081991
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  125
+iteration :  350
+loss :  0.008847434623166919
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+Test Model
+Correct :  8951
+Num :  10000
+Test ACC :  0.8951
+Top 5 ACC :  0.9954
+*******************************
+epoch :  126
+iteration :  50
+loss :  0.008253257176838814
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+*******************************
+epoch :  126
+iteration :  100
+loss :  0.0037160750245675443
+Correct :  6384
+Num :  6400
+Train ACC :  0.9975
+*******************************
+epoch :  126
+iteration :  150
+loss :  0.007114861197769642
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  126
+iteration :  200
+loss :  0.005800760351121426
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  126
+iteration :  250
+loss :  0.0061640333477407695
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  126
+iteration :  300
+loss :  0.004306972306221723
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  126
+iteration :  350
+loss :  0.006284575778990984
+Correct :  6378
+Num :  6400
+Train ACC :  0.9965625
+Test Model
+Correct :  8969
+Num :  10000
+Test ACC :  0.8969
+Top 5 ACC :  0.9949
+*******************************
+epoch :  127
+iteration :  50
+loss :  0.0070478974934667345
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  127
+iteration :  100
+loss :  0.007479016995057463
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  127
+iteration :  150
+loss :  0.007904387442395092
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  127
+iteration :  200
+loss :  0.0059518559277057645
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  127
+iteration :  250
+loss :  0.006209830162115395
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  127
+iteration :  300
+loss :  0.008344720345921814
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  127
+iteration :  350
+loss :  0.007750060404650867
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+Test Model
+Correct :  9022
+Num :  10000
+Test ACC :  0.9022
+Top 5 ACC :  0.9954
+*******************************
+epoch :  128
+iteration :  50
+loss :  0.004627043232321739
+Correct :  6381
+Num :  6400
+Train ACC :  0.99703125
+*******************************
+epoch :  128
+iteration :  100
+loss :  0.007614257149398327
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  128
+iteration :  150
+loss :  0.005850201407447457
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  128
+iteration :  200
+loss :  0.009424623367376626
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  128
+iteration :  250
+loss :  0.010237636202946305
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  128
+iteration :  300
+loss :  0.0071025575324893
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  128
+iteration :  350
+loss :  0.005601446181535721
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+Test Model
+Correct :  9011
+Num :  10000
+Test ACC :  0.9011
+Top 5 ACC :  0.9954
+*******************************
+epoch :  129
+iteration :  50
+loss :  0.003999871779233217
+Correct :  6387
+Num :  6400
+Train ACC :  0.99796875
+*******************************
+epoch :  129
+iteration :  100
+loss :  0.0038728015404194596
+Correct :  6385
+Num :  6400
+Train ACC :  0.99765625
+*******************************
+epoch :  129
+iteration :  150
+loss :  0.004998298077844084
+Correct :  6377
+Num :  6400
+Train ACC :  0.99640625
+*******************************
+epoch :  129
+iteration :  200
+loss :  0.006652860646136105
+Correct :  6373
+Num :  6400
+Train ACC :  0.99578125
+*******************************
+epoch :  129
+iteration :  250
+loss :  0.009003453571349383
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  129
+iteration :  300
+loss :  0.006892324495129287
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+*******************************
+epoch :  129
+iteration :  350
+loss :  0.007200975529849529
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+Test Model
+Correct :  8934
+Num :  10000
+Test ACC :  0.8934
+Top 5 ACC :  0.9947
+*******************************
+epoch :  130
+iteration :  50
+loss :  0.005139955882914365
+Correct :  6379
+Num :  6400
+Train ACC :  0.99671875
+*******************************
+epoch :  130
+iteration :  100
+loss :  0.010005851895548402
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  130
+iteration :  150
+loss :  0.009014094821177423
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  130
+iteration :  200
+loss :  0.006592979943379759
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  130
+iteration :  250
+loss :  0.008789745043031871
+Correct :  6362
+Num :  6400
+Train ACC :  0.9940625
+*******************************
+epoch :  130
+iteration :  300
+loss :  0.004727031253278256
+Correct :  6375
+Num :  6400
+Train ACC :  0.99609375
+*******************************
+epoch :  130
+iteration :  350
+loss :  0.008738175900653004
+Correct :  6361
+Num :  6400
+Train ACC :  0.99390625
+Test Model
+Correct :  8958
+Num :  10000
+Test ACC :  0.8958
+Top 5 ACC :  0.9943
+*******************************
+epoch :  131
+iteration :  50
+loss :  0.008267204044386744
+Correct :  6365
+Num :  6400
+Train ACC :  0.99453125
+*******************************
+epoch :  131
+iteration :  100
+loss :  0.0057474323455244305
+Correct :  6376
+Num :  6400
+Train ACC :  0.99625
+*******************************
+epoch :  131
+iteration :  150
+loss :  0.008890259906183928
+Correct :  6358
+Num :  6400
+Train ACC :  0.9934375
+*******************************
+epoch :  131
+iteration :  200
+loss :  0.008734251814894378
+Correct :  6361
+Num :  6400
+Train ACC :  0.99390625
+*******************************
+epoch :  131
+iteration :  250
+loss :  0.007901364210993052
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  131
+iteration :  300
+loss :  0.009343529604375362
+Correct :  6351
+Num :  6400
+Train ACC :  0.99234375
+*******************************
+epoch :  131
+iteration :  350
+loss :  0.006851133666932583
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+Test Model
+Correct :  8941
+Num :  10000
+Test ACC :  0.8941
+Top 5 ACC :  0.9945
+*******************************
+epoch :  132
+iteration :  50
+loss :  0.007303993008099497
+Correct :  6371
+Num :  6400
+Train ACC :  0.99546875
+*******************************
+epoch :  132
+iteration :  100
+loss :  0.0069993461202830076
+Correct :  6374
+Num :  6400
+Train ACC :  0.9959375
+*******************************
+epoch :  132
+iteration :  150
+loss :  0.008106724442914128
+Correct :  6361
+Num :  6400
+Train ACC :  0.99390625
+*******************************
+epoch :  132
+iteration :  200
+loss :  0.009567273994907737
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  132
+iteration :  250
+loss :  0.010137360654771327
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  132
+iteration :  300
+loss :  0.006596080996096134
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+*******************************
+epoch :  132
+iteration :  350
+loss :  0.008183227283880115
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+Test Model
+Correct :  8940
+Num :  10000
+Test ACC :  0.894
+Top 5 ACC :  0.9937
+*******************************
+epoch :  133
+iteration :  50
+loss :  0.013059771615080535
+Correct :  6352
+Num :  6400
+Train ACC :  0.9925
+*******************************
+epoch :  133
+iteration :  100
+loss :  0.008120988132432103
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  133
+iteration :  150
+loss :  0.00831625185906887
+Correct :  6366
+Num :  6400
+Train ACC :  0.9946875
+*******************************
+epoch :  133
+iteration :  200
+loss :  0.007935405913740397
+Correct :  6367
+Num :  6400
+Train ACC :  0.99484375
+*******************************
+epoch :  133
+iteration :  250
+loss :  0.00986254725139588
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  133
+iteration :  300
+loss :  0.008871551109477878
+Correct :  6360
+Num :  6400
+Train ACC :  0.99375
+*******************************
+epoch :  133
+iteration :  350
+loss :  0.007172220833599568
+Correct :  6370
+Num :  6400
+Train ACC :  0.9953125
+Test Model
+Correct :  8894
+Num :  10000
+Test ACC :  0.8894
+Top 5 ACC :  0.9959
+*******************************
+epoch :  134
+iteration :  50
+loss :  0.011436203750781715
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  134
+iteration :  100
+loss :  0.008134054504334926
+Correct :  6364
+Num :  6400
+Train ACC :  0.994375
+*******************************
+epoch :  134
+iteration :  150
+loss :  0.007836199742741882
+Correct :  6368
+Num :  6400
+Train ACC :  0.995
+*******************************
+epoch :  134
+iteration :  200
+loss :  0.005086811599321664
+Correct :  6378
+Num :  6400
+Train ACC :  0.9965625
+*******************************
+epoch :  134
+iteration :  250
+loss :  0.007648166180588305
+Correct :  6369
+Num :  6400
+Train ACC :  0.99515625
+*******************************
+epoch :  134
+iteration :  300
+loss :  0.011334078470245004
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  134
+iteration :  350
+loss :  0.011190780936740339
+Correct :  6363
+Num :  6400
+Train ACC :  0.99421875
+Test Model
+Correct :  9009
+Num :  10000
+Test ACC :  0.9009
+Top 5 ACC :  0.9949
+*******************************
+epoch :  135
+iteration :  50
+loss :  0.009974032118916511
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+*******************************
+epoch :  135
+iteration :  100
+loss :  0.010176826259121299
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  135
+iteration :  150
+loss :  0.011675902642309666
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  135
+iteration :  200
+loss :  0.00956024944782257
+Correct :  6358
+Num :  6400
+Train ACC :  0.9934375
+*******************************
+epoch :  135
+iteration :  250
+loss :  0.012798752961680293
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  135
+iteration :  300
+loss :  0.01209500126540661
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  135
+iteration :  350
+loss :  0.01161105539649725
+Correct :  6346
+Num :  6400
+Train ACC :  0.9915625
+Test Model
+Correct :  8973
+Num :  10000
+Test ACC :  0.8973
+Top 5 ACC :  0.9948
+*******************************
+epoch :  136
+iteration :  50
+loss :  0.009409144441597163
+Correct :  6359
+Num :  6400
+Train ACC :  0.99359375
+*******************************
+epoch :  136
+iteration :  100
+loss :  0.008777343076653779
+Correct :  6358
+Num :  6400
+Train ACC :  0.9934375
+*******************************
+epoch :  136
+iteration :  150
+loss :  0.009373828545212745
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+*******************************
+epoch :  136
+iteration :  200
+loss :  0.010635772226378322
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  136
+iteration :  250
+loss :  0.011244083009660243
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  136
+iteration :  300
+loss :  0.011127523430623114
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  136
+iteration :  350
+loss :  0.009278571493923663
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+Test Model
+Correct :  8910
+Num :  10000
+Test ACC :  0.891
+Top 5 ACC :  0.9943
+*******************************
+epoch :  137
+iteration :  50
+loss :  0.011110048876143992
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  137
+iteration :  100
+loss :  0.012353593963198364
+Correct :  6352
+Num :  6400
+Train ACC :  0.9925
+*******************************
+epoch :  137
+iteration :  150
+loss :  0.010393837336450815
+Correct :  6350
+Num :  6400
+Train ACC :  0.9921875
+*******************************
+epoch :  137
+iteration :  200
+loss :  0.011996290609240533
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  137
+iteration :  250
+loss :  0.01434989735018462
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  137
+iteration :  300
+loss :  0.013818647125735878
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  137
+iteration :  350
+loss :  0.012261954396963119
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+Test Model
+Correct :  8933
+Num :  10000
+Test ACC :  0.8933
+Top 5 ACC :  0.9946
+*******************************
+epoch :  138
+iteration :  50
+loss :  0.01037092345301062
+Correct :  6358
+Num :  6400
+Train ACC :  0.9934375
+*******************************
+epoch :  138
+iteration :  100
+loss :  0.011879116659983993
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  138
+iteration :  150
+loss :  0.009835205348208547
+Correct :  6352
+Num :  6400
+Train ACC :  0.9925
+*******************************
+epoch :  138
+iteration :  200
+loss :  0.012696381746791304
+Correct :  6344
+Num :  6400
+Train ACC :  0.99125
+*******************************
+epoch :  138
+iteration :  250
+loss :  0.012513013049028814
+Correct :  6337
+Num :  6400
+Train ACC :  0.99015625
+*******************************
+epoch :  138
+iteration :  300
+loss :  0.011695114905014634
+Correct :  6347
+Num :  6400
+Train ACC :  0.99171875
+*******************************
+epoch :  138
+iteration :  350
+loss :  0.009849826227873565
+Correct :  6356
+Num :  6400
+Train ACC :  0.993125
+Test Model
+Correct :  8888
+Num :  10000
+Test ACC :  0.8888
+Top 5 ACC :  0.9925
+*******************************
+epoch :  139
+iteration :  50
+loss :  0.012799136647954583
+Correct :  6338
+Num :  6400
+Train ACC :  0.9903125
+*******************************
+epoch :  139
+iteration :  100
+loss :  0.013663660041056574
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  139
+iteration :  150
+loss :  0.011054670182056725
+Correct :  6349
+Num :  6400
+Train ACC :  0.99203125
+*******************************
+epoch :  139
+iteration :  200
+loss :  0.014581637782976031
+Correct :  6338
+Num :  6400
+Train ACC :  0.9903125
+*******************************
+epoch :  139
+iteration :  250
+loss :  0.010734546212479473
+Correct :  6354
+Num :  6400
+Train ACC :  0.9928125
+*******************************
+epoch :  139
+iteration :  300
+loss :  0.010331925246864557
+Correct :  6355
+Num :  6400
+Train ACC :  0.99296875
+*******************************
+epoch :  139
+iteration :  350
+loss :  0.015351230492815376
+Correct :  6328
+Num :  6400
+Train ACC :  0.98875
+Test Model
+Correct :  8921
+Num :  10000
+Test ACC :  0.8921
+Top 5 ACC :  0.9936
+*******************************
+epoch :  140
+iteration :  50
+loss :  0.01334082592278719
+Correct :  6330
+Num :  6400
+Train ACC :  0.9890625
+*******************************
+epoch :  140
+iteration :  100
+loss :  0.01610423967242241
+Correct :  6330
+Num :  6400
+Train ACC :  0.9890625
+*******************************
+epoch :  140
+iteration :  150
+loss :  0.014042297322303056
+Correct :  6335
+Num :  6400
+Train ACC :  0.98984375
+*******************************
+epoch :  140
+iteration :  200
+loss :  0.012297649364918471
+Correct :  6345
+Num :  6400
+Train ACC :  0.99140625
+*******************************
+epoch :  140
+iteration :  250
+loss :  0.013584128571674228
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  140
+iteration :  300
+loss :  0.013840363640338183
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  140
+iteration :  350
+loss :  0.013719997387379407
+Correct :  6333
+Num :  6400
+Train ACC :  0.98953125
+Test Model
+Correct :  8911
+Num :  10000
+Test ACC :  0.8911
+Top 5 ACC :  0.9942
+*******************************
+epoch :  141
+iteration :  50
+loss :  0.01326535533182323
+Correct :  6340
+Num :  6400
+Train ACC :  0.990625
+*******************************
+epoch :  141
+iteration :  100
+loss :  0.015391284595243632
+Correct :  6336
+Num :  6400
+Train ACC :  0.99
+*******************************
+epoch :  141
+iteration :  150
+loss :  0.018840791508555412
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+*******************************
+epoch :  141
+iteration :  200
+loss :  0.014946574750356377
+Correct :  6331
+Num :  6400
+Train ACC :  0.98921875
+*******************************
+epoch :  141
+iteration :  250
+loss :  0.013579997271299361
+Correct :  6344
+Num :  6400
+Train ACC :  0.99125
+*******************************
+epoch :  141
+iteration :  300
+loss :  0.012878618352115154
+Correct :  6341
+Num :  6400
+Train ACC :  0.99078125
+*******************************
+epoch :  141
+iteration :  350
+loss :  0.014629654912278056
+Correct :  6340
+Num :  6400
+Train ACC :  0.990625
+Test Model
+Correct :  8964
+Num :  10000
+Test ACC :  0.8964
+Top 5 ACC :  0.9937
+*******************************
+epoch :  142
+iteration :  50
+loss :  0.012450159350410104
+Correct :  6357
+Num :  6400
+Train ACC :  0.99328125
+*******************************
+epoch :  142
+iteration :  100
+loss :  0.014941020095720887
+Correct :  6337
+Num :  6400
+Train ACC :  0.99015625
+*******************************
+epoch :  142
+iteration :  150
+loss :  0.012603062130510807
+Correct :  6352
+Num :  6400
+Train ACC :  0.9925
+*******************************
+epoch :  142
+iteration :  200
+loss :  0.013169282283633947
+Correct :  6339
+Num :  6400
+Train ACC :  0.99046875
+*******************************
+epoch :  142
+iteration :  250
+loss :  0.01699851139448583
+Correct :  6326
+Num :  6400
+Train ACC :  0.9884375
+*******************************
+epoch :  142
+iteration :  300
+loss :  0.015061329226009548
+Correct :  6331
+Num :  6400
+Train ACC :  0.98921875
+*******************************
+epoch :  142
+iteration :  350
+loss :  0.016493415851145984
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+Test Model
+Correct :  8900
+Num :  10000
+Test ACC :  0.89
+Top 5 ACC :  0.9948
+*******************************
+epoch :  143
+iteration :  50
+loss :  0.01694706643000245
+Correct :  6320
+Num :  6400
+Train ACC :  0.9875
+*******************************
+epoch :  143
+iteration :  100
+loss :  0.015205750847235322
+Correct :  6330
+Num :  6400
+Train ACC :  0.9890625
+*******************************
+epoch :  143
+iteration :  150
+loss :  0.013468223898671567
+Correct :  6348
+Num :  6400
+Train ACC :  0.991875
+*******************************
+epoch :  143
+iteration :  200
+loss :  0.016700336346402764
+Correct :  6330
+Num :  6400
+Train ACC :  0.9890625
+*******************************
+epoch :  143
+iteration :  250
+loss :  0.013704916639253497
+Correct :  6345
+Num :  6400
+Train ACC :  0.99140625
+*******************************
+epoch :  143
+iteration :  300
+loss :  0.01445272546261549
+Correct :  6346
+Num :  6400
+Train ACC :  0.9915625
+*******************************
+epoch :  143
+iteration :  350
+loss :  0.01586003032512963
+Correct :  6325
+Num :  6400
+Train ACC :  0.98828125
+Test Model
+Correct :  8882
+Num :  10000
+Test ACC :  0.8882
+Top 5 ACC :  0.9949
+*******************************
+epoch :  144
+iteration :  50
+loss :  0.0169667209032923
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  144
+iteration :  100
+loss :  0.014957476975396275
+Correct :  6335
+Num :  6400
+Train ACC :  0.98984375
+*******************************
+epoch :  144
+iteration :  150
+loss :  0.01614770954474807
+Correct :  6327
+Num :  6400
+Train ACC :  0.98859375
+*******************************
+epoch :  144
+iteration :  200
+loss :  0.014979385808110236
+Correct :  6335
+Num :  6400
+Train ACC :  0.98984375
+*******************************
+epoch :  144
+iteration :  250
+loss :  0.018915402432903648
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  144
+iteration :  300
+loss :  0.02159568970091641
+Correct :  6301
+Num :  6400
+Train ACC :  0.98453125
+*******************************
+epoch :  144
+iteration :  350
+loss :  0.020837853886187075
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+Test Model
+Correct :  8919
+Num :  10000
+Test ACC :  0.8919
+Top 5 ACC :  0.9942
+*******************************
+epoch :  145
+iteration :  50
+loss :  0.014877172922715544
+Correct :  6335
+Num :  6400
+Train ACC :  0.98984375
+*******************************
+epoch :  145
+iteration :  100
+loss :  0.017430309653282166
+Correct :  6328
+Num :  6400
+Train ACC :  0.98875
+*******************************
+epoch :  145
+iteration :  150
+loss :  0.019230612879619004
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+*******************************
+epoch :  145
+iteration :  200
+loss :  0.018368610935285686
+Correct :  6328
+Num :  6400
+Train ACC :  0.98875
+*******************************
+epoch :  145
+iteration :  250
+loss :  0.017861633077263833
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  145
+iteration :  300
+loss :  0.018165596779435873
+Correct :  6322
+Num :  6400
+Train ACC :  0.9878125
+*******************************
+epoch :  145
+iteration :  350
+loss :  0.01604850301519036
+Correct :  6331
+Num :  6400
+Train ACC :  0.98921875
+Test Model
+Correct :  8884
+Num :  10000
+Test ACC :  0.8884
+Top 5 ACC :  0.9937
+*******************************
+epoch :  146
+iteration :  50
+loss :  0.017656780146062374
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  146
+iteration :  100
+loss :  0.01975865876302123
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  146
+iteration :  150
+loss :  0.016166971917264163
+Correct :  6332
+Num :  6400
+Train ACC :  0.989375
+*******************************
+epoch :  146
+iteration :  200
+loss :  0.020845376523211598
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  146
+iteration :  250
+loss :  0.02000444682314992
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  146
+iteration :  300
+loss :  0.018711496172472836
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  146
+iteration :  350
+loss :  0.015936413793824614
+Correct :  6322
+Num :  6400
+Train ACC :  0.9878125
+Test Model
+Correct :  8932
+Num :  10000
+Test ACC :  0.8932
+Top 5 ACC :  0.9936
+*******************************
+epoch :  147
+iteration :  50
+loss :  0.01618910040706396
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  147
+iteration :  100
+loss :  0.017225146424025298
+Correct :  6321
+Num :  6400
+Train ACC :  0.98765625
+*******************************
+epoch :  147
+iteration :  150
+loss :  0.016677532996982335
+Correct :  6330
+Num :  6400
+Train ACC :  0.9890625
+*******************************
+epoch :  147
+iteration :  200
+loss :  0.0241633571870625
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  147
+iteration :  250
+loss :  0.022213736465200782
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  147
+iteration :  300
+loss :  0.0197958626691252
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  147
+iteration :  350
+loss :  0.01762974395416677
+Correct :  6315
+Num :  6400
+Train ACC :  0.98671875
+Test Model
+Correct :  8848
+Num :  10000
+Test ACC :  0.8848
+Top 5 ACC :  0.9933
+*******************************
+epoch :  148
+iteration :  50
+loss :  0.02065396792255342
+Correct :  6310
+Num :  6400
+Train ACC :  0.9859375
+*******************************
+epoch :  148
+iteration :  100
+loss :  0.021627237601205707
+Correct :  6310
+Num :  6400
+Train ACC :  0.9859375
+*******************************
+epoch :  148
+iteration :  150
+loss :  0.018801532872021198
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  148
+iteration :  200
+loss :  0.019740486750379205
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  148
+iteration :  250
+loss :  0.020684421956539155
+Correct :  6306
+Num :  6400
+Train ACC :  0.9853125
+*******************************
+epoch :  148
+iteration :  300
+loss :  0.02310199352912605
+Correct :  6290
+Num :  6400
+Train ACC :  0.9828125
+*******************************
+epoch :  148
+iteration :  350
+loss :  0.026381815969944
+Correct :  6285
+Num :  6400
+Train ACC :  0.98203125
+Test Model
+Correct :  8893
+Num :  10000
+Test ACC :  0.8893
+Top 5 ACC :  0.9936
+*******************************
+epoch :  149
+iteration :  50
+loss :  0.01576351518277079
+Correct :  6326
+Num :  6400
+Train ACC :  0.9884375
+*******************************
+epoch :  149
+iteration :  100
+loss :  0.01205333974212408
+Correct :  6349
+Num :  6400
+Train ACC :  0.99203125
+*******************************
+epoch :  149
+iteration :  150
+loss :  0.01646944593638182
+Correct :  6334
+Num :  6400
+Train ACC :  0.9896875
+*******************************
+epoch :  149
+iteration :  200
+loss :  0.017220364334061742
+Correct :  6326
+Num :  6400
+Train ACC :  0.9884375
+*******************************
+epoch :  149
+iteration :  250
+loss :  0.02291872843168676
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  149
+iteration :  300
+loss :  0.02206756768748164
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  149
+iteration :  350
+loss :  0.021830331748351455
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+Test Model
+Correct :  8901
+Num :  10000
+Test ACC :  0.8901
+Top 5 ACC :  0.9938
+*******************************
+epoch :  150
+iteration :  50
+loss :  0.017045177537947893
+Correct :  6328
+Num :  6400
+Train ACC :  0.98875
+*******************************
+epoch :  150
+iteration :  100
+loss :  0.01605259851552546
+Correct :  6327
+Num :  6400
+Train ACC :  0.98859375
+*******************************
+epoch :  150
+iteration :  150
+loss :  0.02313455312978476
+Correct :  6277
+Num :  6400
+Train ACC :  0.98078125
+*******************************
+epoch :  150
+iteration :  200
+loss :  0.023330587074160577
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  150
+iteration :  250
+loss :  0.021488167988136412
+Correct :  6318
+Num :  6400
+Train ACC :  0.9871875
+*******************************
+epoch :  150
+iteration :  300
+loss :  0.016756897009909153
+Correct :  6325
+Num :  6400
+Train ACC :  0.98828125
+*******************************
+epoch :  150
+iteration :  350
+loss :  0.022622075891122223
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+Test Model
+Correct :  8888
+Num :  10000
+Test ACC :  0.8888
+Top 5 ACC :  0.9942
+*******************************
+epoch :  151
+iteration :  50
+loss :  0.020761581091210245
+Correct :  6313
+Num :  6400
+Train ACC :  0.98640625
+*******************************
+epoch :  151
+iteration :  100
+loss :  0.01675202552229166
+Correct :  6323
+Num :  6400
+Train ACC :  0.98796875
+*******************************
+epoch :  151
+iteration :  150
+loss :  0.0209808616200462
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  151
+iteration :  200
+loss :  0.02360793124884367
+Correct :  6295
+Num :  6400
+Train ACC :  0.98359375
+*******************************
+epoch :  151
+iteration :  250
+loss :  0.022197340447455645
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  151
+iteration :  300
+loss :  0.024376914789900183
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  151
+iteration :  350
+loss :  0.02469305130187422
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+Test Model
+Correct :  8807
+Num :  10000
+Test ACC :  0.8807
+Top 5 ACC :  0.9933
+*******************************
+epoch :  152
+iteration :  50
+loss :  0.0214061336312443
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  152
+iteration :  100
+loss :  0.020282465796917677
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  152
+iteration :  150
+loss :  0.02649838672950864
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  152
+iteration :  200
+loss :  0.021483622128143906
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  152
+iteration :  250
+loss :  0.02036693730391562
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  152
+iteration :  300
+loss :  0.0263825907651335
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  152
+iteration :  350
+loss :  0.02157676267437637
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+Test Model
+Correct :  8938
+Num :  10000
+Test ACC :  0.8938
+Top 5 ACC :  0.9944
+*******************************
+epoch :  153
+iteration :  50
+loss :  0.021193661130964755
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  153
+iteration :  100
+loss :  0.023918142281472682
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  153
+iteration :  150
+loss :  0.02262347364798188
+Correct :  6303
+Num :  6400
+Train ACC :  0.98484375
+*******************************
+epoch :  153
+iteration :  200
+loss :  0.02536035602912307
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  153
+iteration :  250
+loss :  0.023346210150048136
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  153
+iteration :  300
+loss :  0.02061555895023048
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  153
+iteration :  350
+loss :  0.02838618610985577
+Correct :  6276
+Num :  6400
+Train ACC :  0.980625
+Test Model
+Correct :  8825
+Num :  10000
+Test ACC :  0.8825
+Top 5 ACC :  0.9932
+*******************************
+epoch :  154
+iteration :  50
+loss :  0.01980184169486165
+Correct :  6314
+Num :  6400
+Train ACC :  0.9865625
+*******************************
+epoch :  154
+iteration :  100
+loss :  0.020203541526570917
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  154
+iteration :  150
+loss :  0.01991652827709913
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  154
+iteration :  200
+loss :  0.02670619479380548
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  154
+iteration :  250
+loss :  0.023606152939610183
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+*******************************
+epoch :  154
+iteration :  300
+loss :  0.019946906426921488
+Correct :  6316
+Num :  6400
+Train ACC :  0.986875
+*******************************
+epoch :  154
+iteration :  350
+loss :  0.02071387832518667
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+Test Model
+Correct :  8808
+Num :  10000
+Test ACC :  0.8808
+Top 5 ACC :  0.9921
+*******************************
+epoch :  155
+iteration :  50
+loss :  0.017840962344780564
+Correct :  6324
+Num :  6400
+Train ACC :  0.988125
+*******************************
+epoch :  155
+iteration :  100
+loss :  0.024274642653763293
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  155
+iteration :  150
+loss :  0.026012803157791496
+Correct :  6287
+Num :  6400
+Train ACC :  0.98234375
+*******************************
+epoch :  155
+iteration :  200
+loss :  0.02066328199580312
+Correct :  6304
+Num :  6400
+Train ACC :  0.985
+*******************************
+epoch :  155
+iteration :  250
+loss :  0.021845286460593343
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  155
+iteration :  300
+loss :  0.022524145524948837
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  155
+iteration :  350
+loss :  0.024269667705520987
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+Test Model
+Correct :  8711
+Num :  10000
+Test ACC :  0.8711
+Top 5 ACC :  0.9915
+*******************************
+epoch :  156
+iteration :  50
+loss :  0.018115652510896325
+Correct :  6328
+Num :  6400
+Train ACC :  0.98875
+*******************************
+epoch :  156
+iteration :  100
+loss :  0.022735942928120492
+Correct :  6300
+Num :  6400
+Train ACC :  0.984375
+*******************************
+epoch :  156
+iteration :  150
+loss :  0.02264103140681982
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  156
+iteration :  200
+loss :  0.022096462780609727
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+*******************************
+epoch :  156
+iteration :  250
+loss :  0.019672259599901737
+Correct :  6312
+Num :  6400
+Train ACC :  0.98625
+*******************************
+epoch :  156
+iteration :  300
+loss :  0.023733525816351176
+Correct :  6297
+Num :  6400
+Train ACC :  0.98390625
+*******************************
+epoch :  156
+iteration :  350
+loss :  0.02491979575715959
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+Test Model
+Correct :  8851
+Num :  10000
+Test ACC :  0.8851
+Top 5 ACC :  0.9928
+*******************************
+epoch :  157
+iteration :  50
+loss :  0.02366345635615289
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+*******************************
+epoch :  157
+iteration :  100
+loss :  0.02149018255062401
+Correct :  6309
+Num :  6400
+Train ACC :  0.98578125
+*******************************
+epoch :  157
+iteration :  150
+loss :  0.024439498437568544
+Correct :  6295
+Num :  6400
+Train ACC :  0.98359375
+*******************************
+epoch :  157
+iteration :  200
+loss :  0.02630216399207711
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  157
+iteration :  250
+loss :  0.023279813127592208
+Correct :  6290
+Num :  6400
+Train ACC :  0.9828125
+*******************************
+epoch :  157
+iteration :  300
+loss :  0.024395122062414884
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  157
+iteration :  350
+loss :  0.023183263037353755
+Correct :  6293
+Num :  6400
+Train ACC :  0.98328125
+Test Model
+Correct :  8937
+Num :  10000
+Test ACC :  0.8937
+Top 5 ACC :  0.9931
+*******************************
+epoch :  158
+iteration :  50
+loss :  0.019403435299173
+Correct :  6307
+Num :  6400
+Train ACC :  0.98546875
+*******************************
+epoch :  158
+iteration :  100
+loss :  0.022549309767782688
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  158
+iteration :  150
+loss :  0.028332235664129256
+Correct :  6280
+Num :  6400
+Train ACC :  0.98125
+*******************************
+epoch :  158
+iteration :  200
+loss :  0.02316626544110477
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  158
+iteration :  250
+loss :  0.02126926092430949
+Correct :  6311
+Num :  6400
+Train ACC :  0.98609375
+*******************************
+epoch :  158
+iteration :  300
+loss :  0.01901191484183073
+Correct :  6319
+Num :  6400
+Train ACC :  0.98734375
+*******************************
+epoch :  158
+iteration :  350
+loss :  0.02127815061248839
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+Test Model
+Correct :  8851
+Num :  10000
+Test ACC :  0.8851
+Top 5 ACC :  0.9935
+*******************************
+epoch :  159
+iteration :  50
+loss :  0.02799758119508624
+Correct :  6275
+Num :  6400
+Train ACC :  0.98046875
+*******************************
+epoch :  159
+iteration :  100
+loss :  0.021584550784900784
+Correct :  6308
+Num :  6400
+Train ACC :  0.985625
+*******************************
+epoch :  159
+iteration :  150
+loss :  0.02225828648544848
+Correct :  6301
+Num :  6400
+Train ACC :  0.98453125
+*******************************
+epoch :  159
+iteration :  200
+loss :  0.027752994913607835
+Correct :  6274
+Num :  6400
+Train ACC :  0.9803125
+*******************************
+epoch :  159
+iteration :  250
+loss :  0.02598740190733224
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+*******************************
+epoch :  159
+iteration :  300
+loss :  0.026088908640667798
+Correct :  6289
+Num :  6400
+Train ACC :  0.98265625
+*******************************
+epoch :  159
+iteration :  350
+loss :  0.031583125162869694
+Correct :  6252
+Num :  6400
+Train ACC :  0.976875
+Test Model
+Correct :  8890
+Num :  10000
+Test ACC :  0.889
+Top 5 ACC :  0.9931
+*******************************
+epoch :  160
+iteration :  50
+loss :  0.023438679561950268
+Correct :  6288
+Num :  6400
+Train ACC :  0.9825
+*******************************
+epoch :  160
+iteration :  100
+loss :  0.02305584952235222
+Correct :  6305
+Num :  6400
+Train ACC :  0.98515625
+*******************************
+epoch :  160
+iteration :  150
+loss :  0.02214228305965662
+Correct :  6302
+Num :  6400
+Train ACC :  0.9846875
+*******************************
+epoch :  160
+iteration :  200
+loss :  0.02623224868439138
+Correct :  6283
+Num :  6400
+Train ACC :  0.98171875
+*******************************
+epoch :  160
+iteration :  250
+loss :  0.02417642742395401
+Correct :  6296
+Num :  6400
+Train ACC :  0.98375
+*******************************
+epoch :  160
+iteration :  300
+loss :  0.02318288733717054
+Correct :  6299
+Num :  6400
+Train ACC :  0.98421875
+*******************************
+epoch :  160
+iteration :  350
+loss :  0.02573541465215385
+Correct :  6298
+Num :  6400
+Train ACC :  0.9840625
+Test Model
+Correct :  8925
+Num :  10000
+Test ACC :  0.8925
+Top 5 ACC :  0.9945
